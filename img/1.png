@@ -1,0 +1,1908 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Complete laptop reparatieservice | Laptop Reparatie</title>
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<link rel="stylesheet" href="https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/style.css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS-лента LaptopReparatie.nl" href="https://www.laptopreparatie.nl/feed/" />
+	<link rel="alternate" type="application/atom+xml" title="LaptopReparatie.nl Atom Feed" href="https://www.laptopreparatie.nl/feed/atom/" />
+	
+	<style>
+		fancybox-margin{margin-right:17px;}
+		.sequence-preloader{height: 100%;position: absolute;width: 100%;z-index: 999999;}
+		@keyframes preload{0%{opacity: 1;}50%{opacity: 0;}100%{opacity: 1;}}
+		.sequence-preloader .preloading .circle{fill: #ff9442;
+		display: inline-block;height: 12px;position: relative;
+		top: -50%;width: 12px;animation: preload 1s infinite; 
+		animation: preload 1s infinite;}
+		.preloading{display:block;height: 12px;margin: 0 auto;top: 50%;margin-top:-6px;position: relative;width: 48px;}
+		.sequence-preloader .preloading .circle:nth-child(2){animation-delay: .15s; animation-delay: .15s;}
+		.sequence-preloader .preloading .circle:nth-child(3){animation-delay: .3s; animation-delay: .3s;}
+		.preloading-complete{opacity: 0;visibility: hidden;transition-duration: 1s; transition-duration: 1s;}
+		div.inline{background-color: #ff9442; margin-right: 4px; float: left;}
+	</style>
+	
+	
+<!-- This site is optimized with the Yoast SEO plugin v12.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Laptop traag of kapot? Laat hem deskundig en voordelig repareren bij Laptop Reparatie. Prijsopgaaf vooraf en heldere service. Dien reparatieverzoek in."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://www.laptopreparatie.nl/" />
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Complete laptop reparatieservice | Laptop Reparatie" />
+<meta property="og:description" content="Laptop traag of kapot? Laat hem deskundig en voordelig repareren bij Laptop Reparatie. Prijsopgaaf vooraf en heldere service. Dien reparatieverzoek in." />
+<meta property="og:url" content="https://www.laptopreparatie.nl/" />
+<meta property="og:site_name" content="LaptopReparatie.nl" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Laptop traag of kapot? Laat hem deskundig en voordelig repareren bij Laptop Reparatie. Prijsopgaaf vooraf en heldere service. Dien reparatieverzoek in." />
+<meta name="twitter:title" content="Complete laptop reparatieservice | Laptop Reparatie" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.laptopreparatie.nl/#website","url":"https://www.laptopreparatie.nl/","name":"LaptopReparatie.nl","description":"Laptop Reparatie","potentialAction":{"@type":"SearchAction","target":"https://www.laptopreparatie.nl/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.laptopreparatie.nl/#webpage","url":"https://www.laptopreparatie.nl/","inLanguage":"nl","name":"Complete laptop reparatieservice | Laptop Reparatie","isPartOf":{"@id":"https://www.laptopreparatie.nl/#website"},"datePublished":"2020-01-04T21:26:57+00:00","dateModified":"2021-08-04T14:16:10+00:00","description":"Laptop traag of kapot? Laat hem deskundig en voordelig repareren bij Laptop Reparatie. Prijsopgaaf vooraf en heldere service. Dien reparatieverzoek in."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//polyfill.io' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.laptopreparatie.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.14"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.laptopreparatie.nl/wp-includes/css/dist/block-library/style.min.css?ver=5.3.14'  media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/bbpress/templates/default/css/bbpress.min.css?ver=2.6.4'  media='all' />
+<link rel='stylesheet' id='pure-css-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/cf7-views/assets/css/pure-min.css?ver=5.3.14'  media='all' />
+<link rel='stylesheet' id='pure-grid-css-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/cf7-views/assets/css/grids-responsive-min.css?ver=5.3.14'  media='all' />
+<link rel='stylesheet' id='cf7-views-front-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/cf7-views/assets/css/cf7-views-display.css?ver=5.3.14'  media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6'  media='all' />
+<link rel='stylesheet' id='brb-main-css-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/css/brb-main.css?ver=1.5.6'  media='all' />
+<link rel='stylesheet' id='kiyoh_klantenvertellen_frontend-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/kiyoh-klantenvertellen/assets/css/frontend.css?ver=5.3.14'  media='all' />
+<link rel='stylesheet' id='main-css-css'  href='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/css/main.css'  media='' />
+<link rel='stylesheet' id='bootstrap.min-css-css'  href='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/css/bootstrap.min.css'  media='' />
+<link rel='stylesheet' id='jquery.fancybox-css-css'  href='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/css/jquery.fancybox.css'  media='' />
+<link rel='stylesheet' id='slider-css-css'  href='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/css/slider.css'  media='' />
+<link rel='stylesheet' id='sequence_premiums-css-css'  href='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/css/sequence_premiums.css'  media='' />
+<link rel='stylesheet' id='styles-css-css'  href='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/css/styles.css'  media='' />
+<link rel='stylesheet' id='sequence-css-css'  href='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/css/sequence.css'  media='' />
+<link rel='stylesheet' id='site-reviews-css'  href='https://www.laptopreparatie.nl/wp-content/plugins/site-reviews/assets/styles/site-reviews.css?ver=4.5.5'  media='all' />
+<style id='site-reviews-inline-css' type='text/css'>
+.gl-star-rating-stars>span,.glsr-star-empty{background-image:url(https://www.laptopreparatie.nl/wp-content/plugins/site-reviews/assets/images/star-empty.svg)!important}.glsr-has-error .gl-star-rating-stars>span{background-image:url(https://www.laptopreparatie.nl/wp-content/plugins/site-reviews/assets/images/star-error.svg)!important}.glsr-star-half{background-image:url(https://www.laptopreparatie.nl/wp-content/plugins/site-reviews/assets/images/star-half.svg)!important}.gl-star-rating-stars.s10>span:first-child,.gl-star-rating-stars.s20>span:nth-child(-1n+2),.gl-star-rating-stars.s30>span:nth-child(-1n+3),.gl-star-rating-stars.s40>span:nth-child(-1n+4),.gl-star-rating-stars.s50>span:nth-child(-1n+5),.gl-star-rating-stars.s60>span:nth-child(-1n+6),.gl-star-rating-stars.s70>span:nth-child(-1n+7),.gl-star-rating-stars.s80>span:nth-child(-1n+8),.gl-star-rating-stars.s90>span:nth-child(-1n+9),.gl-star-rating-stars.s100>span,.glsr-star-full{background-image:url(https://www.laptopreparatie.nl/wp-content/plugins/site-reviews/assets/images/star-full.svg)!important}
+</style>
+<script  src='https://www.laptopreparatie.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script  src='https://www.laptopreparatie.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script  src='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/js/brb-main.js?ver=1.5.6'></script>
+<script  src='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/js/jquery-3.3.1.min.js'></script>
+<script  src='https://polyfill.io/v3/polyfill.min.js?features=Array.prototype.findIndex%2CCustomEvent%2CElement.prototype.closest%2CElement.prototype.dataset%2CEvent%2CXMLHttpRequest%2CMutationObserver&#038;flags=gated&#038;ver=5.3.14'></script>
+<link rel='https://api.w.org/' href='https://www.laptopreparatie.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.laptopreparatie.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.laptopreparatie.nl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.14" />
+<link rel='shortlink' href='https://www.laptopreparatie.nl/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.laptopreparatie.nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.laptopreparatie.nl%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.laptopreparatie.nl/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.laptopreparatie.nl%2F&#038;format=xml" />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<link rel="icon" href="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/cropped-favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+.page-generator-pro-map{clear:both;float:left;width:100%;margin:0 0 20px 0;background:#f2f2f2;border:1px solid #dfdfdf}.page-generator-pro-yelp{clear:both;float:left;width:100%;margin:0 0 20px 0}.page-generator-pro-yelp div.business{float:left;width:49%;margin:0 1% 20px 0}.page-generator-pro-yelp div.business .rating-stars{display:inline-block;vertical-align:middle;width:132px;height:24px;background:url(https://s3-media2.fl.yelpcdn.com/assets/srv0/yelp_design_web/9b34e39ccbeb/assets/img/stars/stars.png);background-size:132px 560px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-1{background-position:0 -24px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-1-5{background-position:0 -48px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-2{background-position:0 -72px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-2-5{background-position:0 -96px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-3{background-position:0 -120px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-3-5{background-position:0 -144px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-4{background-position:0 -168px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-4-5{background-position:0 -192px}.page-generator-pro-yelp div.business .rating-stars.rating-stars-5{background-position:0 -216px}
+		</style>
+		</head>
+
+<body class="home page-template page-template-page-index page-template-page-index-php page page-id-8 index homepage page_home">
+
+	<div id="total-overlay" class="default-overlay-style" style="display: none;">
+		<p>
+			<img  alt="Laden..." data-src="https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/images/loading.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/images/loading.gif" alt="Laden..."></noscript>
+		</p>
+	</div>
+	
+	<!-- top navbar -->
+	<!-- check for custom top bar -->
+	<!-- custom header -->			
+	
+    <div class="container">  
+        <!-- top navbar elements -->	
+        <div class="top_menu_custom">
+			<!-- 2 column -->                         
+        </div>                    	    
+    </div>								
+    
+	<!-- header -->
+	<header role="banner">				    		    		                
+		<div class="container">
+			<div class="row"> 	        
+				<!-- 2 column -->
+				<div class="col-md-12 header_col clearfix">
+					<!-- column1 -->
+					<div id="logo" class="logo-block">
+						<a href="https://www.laptopreparatie.nl" title="https://www.laptopreparatie.nl">
+							<!-- <img  alt="laptopreparatie.nl" title="Laptopreparatie" data-src="https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/images/logo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/images/logo.png" alt="laptopreparatie.nl" title="Laptopreparatie"></noscript> -->
+							<img width="989" height="158"   alt="laptopreparatie.nl" style="max-width: 100%; height: auto;" title="Laptopreparatie" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo-1.png" class="image wp-image-182  attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="989" height="158" src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo-1.png" class="image wp-image-182  attachment-full size-full" alt="laptopreparatie.nl" style="max-width: 100%; height: auto;" title="Laptopreparatie" /></noscript>						</a>
+						
+					</div>
+					
+					<div class="header_def_1"></div>   
+					<!-- column1 -->
+					<div>
+						<p>
+							<a class="btn btn-default" href="/repareer-mijn-laptop">Repareer mijn Laptop !</a>
+						</p>
+					</div>                                                            
+					<!-- column1 -->
+												
+					<div class="clearfix">
+						<div class="visible-xs pull-left" >
+							<a  href="tel:0909-0909">
+								<i class="glyphicon glyphicon-phone-alt"></i> &nbsp;0909-0909
+							</a>
+						</div>
+						
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="margin-right:0;">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+
+					<nav id="bs-example-navbar-collapse-1" class="collapse navbar-collapse pull-left" role="navigation">
+						<!-- main navigation -->
+						<div class="hidden-lg hidden-sm hidden-md">				
+							<ul id="menu-primary-menu" class="nav navbar-nav"><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a title="MacBook Reparatie Amsterdam" href="https://www.laptopreparatie.nl/laptop-reparatie/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;MacBook repareren?</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a title="Gegevensherstelservice Amsterdam" href="https://www.laptopreparatie.nl/data-recovery/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;Gegevensherstelservice</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a title="Laptop Reparatie Amsterdam" href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;Defecte laptop?</a></li>
+<li id="menu-item-13227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13227"><a href="https://www.laptopreparatie.nl/recensies/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;300+ Recensies (Klanten vertellen)</a></li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a title="Over ons" href="https://www.laptopreparatie.nl/over-ons/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;Over ons</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a title="Tarieven" href="https://www.laptopreparatie.nl/laptop-reparatie-tarieven/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;Laptop Reparatie Tarieven</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-8 current_page_item menu-item-11"><a title="Homepage" href="https://www.laptopreparatie.nl/" aria-current="page"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;Home</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Contact" href="https://www.laptopreparatie.nl/contact/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;Contact</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a title="Services" href="https://www.laptopreparatie.nl/services/"><i class="glyphicon glyphicon-chevron-right"></i>&nbsp;&nbsp;&nbsp;Services</a></li>
+</ul>	
+							
+						</div>
+					</nav>
+					<!--/.nav-collapse -->
+					<div class="header_def_1"></div>                                                
+				</div>        
+			</div>
+		</div>	    
+																		
+		<div class="container">
+			<!-- 1 column -->		
+			<div class="row"> 	
+				<div class="col-md-12 header_col clearfix">
+				</div>
+			</div>			
+		</div>	
+	</header>
+	<!-- banner -->
+
+	<article class="narrow-content calamity block">
+		<div>
+			<p>We volgen de RIVM-richtlijnen en nemen hygiënemaatregelen om verdere verspreiding van het virus te voorkomen. We zorgen er voor dat onze medewerkers weten wat ze moeten doen om gezond te blijven en zo hygiënisch mogelijk te werken. Onze medewerkers houden 1,5 meter afstand en vermijden fysiek contact.</p>
+		</div>
+		<!--<a class="button link action" href="https://www.laptopreparatie.nl#top" title="Lees meer">
+		Lees meer
+		</a>-->
+	</article>
+
+	<div class="banner-block">
+        <!-- new template | website overall banner -->
+        <div id="sequence-theme" style="margin-top: 0; margin-bottom: 0; box-shadow: 0 4px 5px -2px rgba(0, 0, 0, 0.05) inset; height: 450px;">
+            <!-- Carousel items -->
+		<div id="sequence" class="home">
+		
+			
+		
+				
+				
+			<ul>			
+	
+							<li class="slide slide-current">
+					<div class="title-left-to-right-animate caption light">
+						<!--
+						<div class="h2">
+							<p>Banner 1</p>
+						</div>
+						-->
+						<div class="h3">
+						
+							<ul>
+																	<li>Haal- en brengservice</li>
+																	<li>Dien reparatieverzoek in</li>
+																	<li>Laat ons het repareren!</li>
+									
+							</ul>
+
+							<p>
+								<a href="https://www.laptopreparatie.nl/repareer-mijn-laptop/" target="_self" class="btn-default btn">Repareer mijn laptop</a>
+							</p>
+						</div>
+					</div>
+					
+					<div class="right-img-from-top-out-to-right slide-image"></div>
+					
+					<div class="bgimg" style="overflow: hidden; background: url(https://www.laptopreparatie.nl/wp-content/uploads/2020/01/HANS6207-scaled.jpg) 0% 0% / cover no-repeat; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 5px -2px;"> 
+					</div>
+					
+				</li>
+							<li class="slide slide-current">
+					<div class="title-left-to-right-animate caption light">
+						<!--
+						<div class="h2">
+							<p>Banner 1</p>
+						</div>
+						-->
+						<div class="h3">
+						
+							<ul>
+																	<li>Studentenvoordeel</li>
+																	<li>10% korting</li>
+																	<li>    Op alle laptopreparaties</li>
+									
+							</ul>
+
+							<p>
+								<a href="https://www.laptopreparatie.nl/repareer-mijn-laptop/" target="_self" class="btn-default btn">Repareer mijn laptop</a>
+							</p>
+						</div>
+					</div>
+					
+					<div class="right-img-from-top-out-to-right slide-image"></div>
+					
+					<div class="bgimg" style="overflow: hidden; background: url(https://www.laptopreparatie.nl/wp-content/uploads/2020/01/board1.jpg) 0% 0% / cover no-repeat; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 5px -2px;"> 
+					</div>
+					
+				</li>
+							<li class="slide slide-current">
+					<div class="title-left-to-right-animate caption light">
+						<!--
+						<div class="h2">
+							<p>Banner 1</p>
+						</div>
+						-->
+						<div class="h3">
+						
+							<ul>
+																	<li>12 maanden garantie</li>
+																	<li>No cure, no pay</li>
+																	<li>Persoonlijke service</li>
+									
+							</ul>
+
+							<p>
+								<a href="https://www.laptopreparatie.nl/repareer-mijn-laptop/" target="_self" class="btn-default btn">Repareer mijn laptop</a>
+							</p>
+						</div>
+					</div>
+					
+					<div class="right-img-from-top-out-to-right slide-image"></div>
+					
+					<div class="bgimg" style="overflow: hidden; background: url(https://www.laptopreparatie.nl/wp-content/uploads/2020/01/comp1.jpg) 0% 0% / cover no-repeat; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 5px -2px;"> 
+					</div>
+					
+				</li>
+							<li class="slide slide-current">
+					<div class="title-left-to-right-animate caption light">
+						<!--
+						<div class="h2">
+							<p>Banner 1</p>
+						</div>
+						-->
+						<div class="h3">
+						
+							<ul>
+																	<li>Laptop, Mac & PC repareren?</li>
+																	<li>Datarecovery</li>
+																	<li>Vrijblijvende prijsopgaaf</li>
+									
+							</ul>
+
+							<p>
+								<a href="https://www.laptopreparatie.nl/repareer-mijn-laptop/" target="_self" class="btn-default btn">Repareer mijn laptop</a>
+							</p>
+						</div>
+					</div>
+					
+					<div class="right-img-from-top-out-to-right slide-image"></div>
+					
+					<div class="bgimg" style="overflow: hidden; background: url(https://www.laptopreparatie.nl/wp-content/uploads/2020/01/board2.jpg) 0% 0% / cover no-repeat; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 5px -2px;"> 
+					</div>
+					
+				</li>
+					
+			</ul>   
+		
+	
+		</div>
+
+            <ul class="controls">
+                <li class="prev">
+					<i class="glyphicon glyphicon-chevron-left"></i>
+				</li>
+                <li class="next">
+					<i class="glyphicon glyphicon-chevron-right"></i>
+				</li>
+            </ul>
+			
+            <ul class="nav">
+				                <li>
+					<a href="#" class="active">1</a>
+				</li>
+                                <li>
+					<a href="#" class="active">1</a>
+				</li>
+                                <li>
+					<a href="#" class="active">1</a>
+				</li>
+                                <li>
+					<a href="#" class="active">1</a>
+				</li>
+                	
+            </ul>
+		        </div>
+    </div>
+	
+
+    
+	<main id="page" role="main">
+		<article role="article">
+		<!-- content container -->
+		
+					<section class="section upper_home section_row_main">
+		<!-- main content -->        
+			<div class="container">
+				<div class="row">
+					<!-- 1 column -->
+					<div class="column_1">
+						<div class="col-md-12">
+							<!-- column1 -->
+							<!-- check for custom elements -->
+							<header class="textblock content-only-block text-content">
+								<div class="clearfix">
+									<!-- page content -->     
+									<h1 class="text-center">Laptop Reparatie</h1>    
+								</div>
+							</header>
+						</div>     
+					</div>  
+				</div>
+			</div>
+		<!-- end main content -->
+		</section>
+
+
+		<section class="section home_159910 section-id-159910 section_row_1">    
+			<div class="container">
+				<div class="row">           
+				<!-- 3 column -->   
+
+						
+					<div class="col-md-4">
+					<!-- column1 -->
+					<!-- check for custom elements -->
+						<div class="custom_default_635218 text-content extra">
+							<figure><img  alt="Futuristic Circuit Board. Blue with elecrons." data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/board2-1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/board2-1.jpg" alt="Futuristic Circuit Board. Blue with elecrons."></noscript></figure>
+							<h2 class="text-center style-1 title-h_index"><a href="https://www.laptopreparatie.nl/services/" target="_self" title="Bekijk onze services">Laptop repareren</a><br></h2>
+							<p class="text-center style-1">Onderdelen vervangen<br></p>
+							<p class="text-center">
+								<a href="https://www.laptopreparatie.nl/services/" target="_self" class="btn btn-default">Bekijk onze services</a>
+							</p>
+						</div>            
+					</div>
+					
+					<div class="col-md-4">
+					<!-- column1 -->
+					<!-- check for custom elements -->
+						<div class="custom_default_635218 text-content extra">
+							<figure><img  alt="laptopreparatie.nl" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/home_feature01.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/home_feature01.jpg" alt="laptopreparatie.nl"></noscript></figure>
+							<h2 class="text-center style-1 title-h_index"><a href="https://www.laptopreparatie.nl/tarieven/" target="_self" title="Bekijk tarieven">Kosten laptop reparatie</a><br></h2>
+							<p class="text-center style-1">Hoeveel betaal je voor de reparatie?<br></p>
+							<p class="text-center">
+								<a href="https://www.laptopreparatie.nl/tarieven/" target="_self" class="btn btn-default">Bekijk tarieven</a>
+							</p>
+						</div>            
+					</div>
+					
+					<div class="col-md-4">
+					<!-- column1 -->
+					<!-- check for custom elements -->
+						<div class="custom_default_635218 text-content extra">
+							<figure><img  alt="comp1.jpg" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/comp1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/comp1.jpg" alt="comp1.jpg"></noscript></figure>
+							<h2 class="text-center style-1 title-h_index"><a href="https://www.laptopreparatie.nl/over-ons/" target="_self" title="Vertel meer over jullie bedrijf">Beter repareren dan nieuw kopen</a><br></h2>
+							<p class="text-center style-1">Duurzaam ondernemen<br></p>
+							<p class="text-center">
+								<a href="https://www.laptopreparatie.nl/over-ons/" target="_self" class="btn btn-default">Vertel meer over jullie bedrijf</a>
+							</p>
+						</div>            
+					</div>
+							
+				</div>
+			</div>    
+		</section>
+		
+		
+	
+				<section class="section home_159913 section-id-159913 section_row_2">    
+			<div class="container">
+				<div class="row">        
+				<!-- 1 column -->                
+					<div class="column_1">    
+						<div class="col-md-12">
+						<!-- column1 -->
+						<!-- check for custom elements -->
+													<div class="text-content extra">
+								<figure><img  alt="logo_acer.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_acer.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_acer.png" alt="logo_acer.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_apple.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_apple.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_apple.png" alt="logo_apple.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_asus.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_asus.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_asus.png" alt="logo_asus.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_dell.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_dell.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_dell.png" alt="logo_dell.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_fujsiem.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_fujsiem.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_fujsiem.png" alt="logo_fujsiem.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_hp.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_hp.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_hp.png" alt="logo_hp.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_lenovo.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_lenovo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_lenovo.png" alt="logo_lenovo.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_samsung.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_samsung.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_samsung.png" alt="logo_samsung.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_sony.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_sony.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_sony.png" alt="logo_sony.png"></noscript></figure>
+							</div>
+													<div class="text-content extra">
+								<figure><img  alt="logo_toshiba.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_toshiba.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo_toshiba.png" alt="logo_toshiba.png"></noscript></figure>
+							</div>
+								
+						</div>
+					</div>                   
+				</div>
+			</div>    
+		</section>
+		
+		
+	
+	
+	
+		<section class="section home_159916 section-id-159916 section_row_3">    
+			<div class="container">
+				<div class="row">    				
+				<!-- 2 column -->	
+					<div class="column_2a clearfix">    
+						<div class="col-md-7" id="main">
+						<!-- column1 -->
+							<!-- check for custom elements -->
+								
+<a class="page-link" href="https://www.laptopreparatie.nl" title="Laptop Reparatie">
+
+<h1 class="display-none-h">Laptop Reparatie</h1>
+
+</a>
+
+
+
+<p></p>
+
+
+<h2>Laptop reparatieservice</h2>
+<p>Drijft jouw laptop je tot wanhoop omdat hij traag is, vreemd doet of het helemaal niet meer doet? Geen nood, de redding is nabij. Laptop Reparatie zorgt namelijk dat jouw laptop snel en voordelig gerepareerd wordt. Ook kunnen we eventuele data in de meeste gevallen terugzetten op je laptop. Je hoeft je scriptie of autobiografie dus niet helemaal opnieuw te typen. Één belletje naar Laptop Reparatie lost je laptop probleem op.</p>
+<h2>Klachten laptops</h2>
+<p><strong>Mijn laptop is traag</strong></p>
+<p>Als je je laptop intensief gebruikt, wordt deze na verloop van tijd trager. Het prestatievermogen neemt af. Laptop Reparatie kan hier in de meeste gevallen eenvoudig iets aan doen. Zo heb jij binnen de kortste keren weer de snelle laptop die je gewend bent.</p>
+<p><strong>Mijn laptop wordt erg warm</strong></p>
+<p>De koeler van je laptop raakt op den duur verstopt met stof. Hierdoor werkt het koelsysteem &#8211; en daardoor jouw laptop &#8211; niet meer optimaal. Meestal kan Laptop Reparatie hier eenvoudig iets aan doen. Wij repareren alle laptopmerken, waaronder Acer, Apple, Packard Bell, ASUS en Lenovo.</p>
+<p><strong>Mijn laptop doet vreemd</strong></p>
+<p>Doet je laptop niet meer wat je wil? Mogelijk is er sprake van een virus of achterstallig onderhoud. Laptop Reparatie frist jouw laptop weer helemaal op, zodat je weer op het apparaat kunt vertrouwen. Een prettige gedachte toch?</p>
+<p><a class="btn btn-default" href="/services">Repareer mijn laptop </a></p>
+<p><strong>Laptop Reparatie respecteert jouw privacy<br /></strong></p>
+<ul>
+<li>Gegevens op je laptop worden niet bekeken, verspreid of aan derden verstrekt.</li>
+<li>Door Laptop Reparatie bewaarde tijdelijke gegevens kopieën worden na het terugzetten ervan op de laptop direct verwijderd.</li>
+<li>Bij datarecovery vraagt Laptop Reparatie altijd eerst jouw nadrukkelijke toestemming voordat we gegevens inzien.</li>
+<li>Desgewenst kan Laptop Reparatie gegevens op je laptop vakkundig vernietigen.</li>
+</ul>
+<p>Meer weten?</p>
+<p><a class="btn btn-default" href="/privacyverklaring">Bekijk onze privacyverklaring </a> <a class="btn btn-default" href="/gegevens-vernietigen">Jouw gegevens vernietigen? </a></p>				
+						</div>
+						<div class="col-md-5" id="sidebar">
+						<!-- column2 -->
+							<!-- check for custom elements -->
+							<div class="custom_default_636688 text-content extra">
+							
+								        <div class="rplg" itemscope="" itemtype="http://schema.org/LocalBusiness" style="" data-id="553"><svg style="display:none"><defs><g id="star" width="17" height="17"><path d="M1728 647q0 22-26 48l-363 354 86 500q1 7 1 20 0 21-10.5 35.5t-30.5 14.5q-19 0-40-12l-449-236-449 236q-22 12-40 12-21 0-31.5-14.5t-10.5-35.5q0-6 2-20l86-500-364-354q-25-27-25-48 0-37 56-46l502-73 225-455q19-41 49-41t49 41l225 455 502 73q56 9 56 46z"></path></g><g id="star-half" width="17" height="17"><path d="M1250 957l257-250-356-52-66-10-30-60-159-322v963l59 31 318 168-60-355-12-66zm452-262l-363 354 86 500q5 33-6 51.5t-34 18.5q-17 0-40-12l-449-236-449 236q-23 12-40 12-23 0-34-18.5t-6-51.5l86-500-364-354q-32-32-23-59.5t54-34.5l502-73 225-455q20-41 49-41 28 0 49 41l225 455 502 73q45 7 54 34.5t-24 59.5z"></path></g><g id="star-o" width="17" height="17"><path d="M1201 1004l306-297-422-62-189-382-189 382-422 62 306 297-73 421 378-199 377 199zm527-357q0 22-26 48l-363 354 86 500q1 7 1 20 0 50-41 50-19 0-40-12l-449-236-449 236q-22 12-40 12-21 0-31.5-14.5t-10.5-35.5q0-6 2-20l86-500-364-354q-25-27-25-48 0-37 56-46l502-73 225-455q19-41 49-41t49 41l225 455 502 73q56 9 56 46z" fill="#ccc"></path></g><g id="logo-g" height="44" width="44" fill="none" fill-rule="evenodd"><path d="M482.56 261.36c0-16.73-1.5-32.83-4.29-48.27H256v91.29h127.01c-5.47 29.5-22.1 54.49-47.09 71.23v59.21h76.27c44.63-41.09 70.37-101.59 70.37-173.46z" fill="#4285f4"></path><path d="M256 492c63.72 0 117.14-21.13 156.19-57.18l-76.27-59.21c-21.13 14.16-48.17 22.53-79.92 22.53-61.47 0-113.49-41.51-132.05-97.3H45.1v61.15c38.83 77.13 118.64 130.01 210.9 130.01z" fill="#34a853"></path><path d="M123.95 300.84c-4.72-14.16-7.4-29.29-7.4-44.84s2.68-30.68 7.4-44.84V150.01H45.1C29.12 181.87 20 217.92 20 256c0 38.08 9.12 74.13 25.1 105.99l78.85-61.15z" fill="#fbbc05"></path><path d="M256 113.86c34.65 0 65.76 11.91 90.22 35.29l67.69-67.69C373.03 43.39 319.61 20 256 20c-92.25 0-172.07 52.89-210.9 130.01l78.85 61.15c18.56-55.78 70.59-97.3 132.05-97.3z" fill="#ea4335"></path><path d="M20 20h472v472H20V20z"></path></g><g id="logo-f" width="30" height="30" transform="translate(23,85) scale(0.05,-0.05)"><path fill="#fff" d="M959 1524v-264h-157q-86 0 -116 -36t-30 -108v-189h293l-39 -296h-254v-759h-306v759h-255v296h255v218q0 186 104 288.5t277 102.5q147 0 228 -12z"></path></g><g id="logo-y" x="0px" y="0px" width="44" height="44" style="enable-background:new 0 0 533.33 533.33;" xml:space="preserve"><path d="M317.119,340.347c-9.001,9.076-1.39,25.586-1.39,25.586l67.757,113.135c0,0,11.124,14.915,20.762,14.915   c9.683,0,19.246-7.952,19.246-7.952l53.567-76.567c0,0,5.395-9.658,5.52-18.12c0.193-12.034-17.947-15.33-17.947-15.33   l-126.816-40.726C337.815,335.292,325.39,331.994,317.119,340.347z M310.69,283.325c6.489,11.004,24.389,7.798,24.389,7.798   l126.532-36.982c0,0,17.242-7.014,19.704-16.363c2.415-9.352-2.845-20.637-2.845-20.637l-60.468-71.225   c0,0-5.24-9.006-16.113-9.912c-11.989-1.021-19.366,13.489-19.366,13.489l-71.494,112.505   C311.029,261.999,304.709,273.203,310.69,283.325z M250.91,239.461c14.9-3.668,17.265-25.314,17.265-25.314l-1.013-180.14   c0,0-2.247-22.222-12.232-28.246c-15.661-9.501-20.303-4.541-24.79-3.876l-105.05,39.033c0,0-10.288,3.404-15.646,11.988   c-7.651,12.163,7.775,29.972,7.775,29.972l109.189,148.831C226.407,231.708,237.184,242.852,250.91,239.461z M224.967,312.363   c0.376-13.894-16.682-22.239-16.682-22.239L95.37,233.079c0,0-16.732-6.899-24.855-2.091c-6.224,3.677-11.738,10.333-12.277,16.216   l-7.354,90.528c0,0-1.103,15.685,2.963,22.821c5.758,10.128,24.703,3.074,24.703,3.074L210.37,334.49   C215.491,331.048,224.471,330.739,224.967,312.363z M257.746,361.219c-11.315-5.811-24.856,6.224-24.856,6.224l-88.265,97.17   c0,0-11.012,14.858-8.212,23.982c2.639,8.552,7.007,12.802,13.187,15.797l88.642,27.982c0,0,10.747,2.231,18.884-0.127   c11.552-3.349,9.424-21.433,9.424-21.433l2.003-131.563C268.552,379.253,268.101,366.579,257.746,361.219z" fill="#D80027"/></g><g id="dots" fill="none" fill-rule="evenodd" width="12" height="12"><circle cx="6" cy="3" r="1" fill="#000"/><circle cx="6" cy="6" r="1" fill="#000"/><circle cx="6" cy="9" r="1" fill="#000"/></g></defs></svg><div class="rplg-list2"><div class="rplg-businesses"><span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Abraham Staalmanplein 11"/><meta itemprop="addressLocality" content="Amsterdam"/><meta itemprop="addressRegion" content="Noord-Holland"/><meta itemprop="postalCode" content="1066AG"/><meta itemprop="addressCountry" content="Nederland"/></span><meta itemprop="priceRange" content=""/><meta itemprop="telephone" content="0616819047"/><div class="rplg-box"><div class="rplg-row"><div class="rplg-row-left"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/HANS6207-1.jpg" class="rplg-review-avatar rplg-blazy" alt="Laptop Reparatie Amsterdam De Master" width="56" height="56" title="Laptop Reparatie Amsterdam De Master" onerror="if(this.src!='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7')this.src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';" ><meta itemprop="image" content="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/HANS6207-1.jpg" name="Laptop Reparatie Amsterdam De Master"/></div><div class="rplg-row-right"><div class="rplg-biz-name rplg-trim"><a href="https://www.google.com/maps?cid=7445454124737749696" class="" target="_blank" rel="noopener"   ><span itemprop="name">Laptop Reparatie Amsterdam De Master</span></a></div><div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"><div class="rplg-biz-rating rplg-trim rplg-biz-google"><div class="rplg-biz-score" itemprop="ratingValue">4.9</div><div class="rplg-stars"><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg></div></div><div class="rplg-biz-based rplg-trim"><span class="rplg-biz-based-text">Gebaseerd op <span itemprop="ratingCount">110</span> beoordelingen</span><meta itemprop="bestRating" content="5"/></div></div><div class="rplg-links"><a href="https://search.google.com/local/reviews?placeid=ChIJf_O8iRvjxUcRwOJ1KBSRU2c" target="_blank" rel="noopener" onclick="return true;">Bekijk alle beoordelingen</a><a href="javascript:void(0)" onclick="_rplg_popup('https://search.google.com/local/writereview?placeid=ChIJf_O8iRvjxUcRwOJ1KBSRU2c', 800, 600)">Recensie schrijven</a></div></div><span class="rplg-review-badge"><span class="rplg-social-logo rplg-google-logo"><svg viewBox="0 0 512 512" width="44" height="44"><use xlink:href="#logo-g"/></svg></span></span></div></div></div><div class="rplg-reviews"><div class="rplg-box"><div class="rplg-row"><div class="rplg-row-left"><img src="https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png" data-src="https://lh4.googleusercontent.com/-euElOe02ECU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmeXh7vlEJc7nSSFocsWUsGQTT7MQ/c0x00000000-cc-rp/photo.jpg" class="rplg-review-avatar rplg-blazy" alt="thijs lubbers" width="56" height="56" title="thijs lubbers" onerror="if(this.src!='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png')this.src='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png';" ></div><div class="rplg-row-right"><div style="display:none;"></div><a href="https://www.google.com/maps?cid=7445454124737749696" class="rplg-review-name rplg-trim" target="_blank" rel="noopener"   title="thijs lubbers">thijs lubbers</a><div class="rplg-review-time rplg-trim" data-time="1608069955">22:05 15 Dec 20</div></div></div><div class="rplg-box-content"><div class="rplg-stars"><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg></div><span class="rplg-review-text review_my_css_button">Mijn laptop (die niet meer opstartte) hier naartoe gestuurd, en binnen<span>... </span><span class="rplg-more"> redelijke tijd was het probleem gevonden. Uiteindelijk besloten dat het mij niet waard was om onderdelen van deze oude laptop te laten vervangen, dit is zonder problemen geaccepteerd. Geen onderzoekskosten, alleen de bezorgkosten moest ik betalen. Prima service!</span><span class="rplg-more-toggle">Lees meer</span></span><span class="rplg-review-badge"><span class="rplg-social-logo rplg-google-logo"><svg viewBox="0 0 512 512" width="44" height="44"><use xlink:href="#logo-g"/></svg></span></span></div></div><div class="rplg-box"><div class="rplg-row"><div class="rplg-row-left"><img src="https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png" data-src="https://lh4.googleusercontent.com/-3YuHqyVKDGw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclMn4p3FR_8xTDdT6ocmkU99QnfTQ/c0x00000000-cc-rp/photo.jpg" class="rplg-review-avatar rplg-blazy" alt="Jono" width="56" height="56" title="Jono" onerror="if(this.src!='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png')this.src='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png';" ></div><div class="rplg-row-right"><div style="display:none;"></div><a href="https://www.google.com/maps?cid=7445454124737749696" class="rplg-review-name rplg-trim" target="_blank" rel="noopener"   title="Jono">Jono</a><div class="rplg-review-time rplg-trim" data-time="1607788508">15:55 12 Dec 20</div></div></div><div class="rplg-box-content"><div class="rplg-stars"><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg></div><span class="rplg-review-text review_my_css_button">Quick and efficient &#x1f44c;</span><span class="rplg-review-badge"><span class="rplg-social-logo rplg-google-logo"><svg viewBox="0 0 512 512" width="44" height="44"><use xlink:href="#logo-g"/></svg></span></span></div></div><div class="rplg-box"><div class="rplg-row"><div class="rplg-row-left"><img src="https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png" data-src="https://lh3.googleusercontent.com/a-/AOh14Ggj7a7DliLYPCt6hOoM2QELNGhFLX1hXbOYUedu=c0x00000000-cc-rp" class="rplg-review-avatar rplg-blazy" alt="Annemarie Van De Water" width="56" height="56" title="Annemarie Van De Water" onerror="if(this.src!='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png')this.src='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png';" ></div><div class="rplg-row-right"><div style="display:none;"></div><a href="https://www.google.com/maps?cid=7445454124737749696" class="rplg-review-name rplg-trim" target="_blank" rel="noopener"   title="Annemarie Van De Water">Annemarie Van De Water</a><div class="rplg-review-time rplg-trim" data-time="1607770905">11:01 12 Dec 20</div></div></div><div class="rplg-box-content"><div class="rplg-stars"><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg></div><span class="rplg-review-text review_my_css_button">Ik heb mijn laptopscherm hier laten repareren nadat ik deze via de website had<span>... </span><span class="rplg-more"> aangemeld. Ik werd meteen vriendelijk geholpen en hij was binnen een dag al gerepareerd en zo goed als nieuw. Top!</span><span class="rplg-more-toggle">Lees meer</span></span><span class="rplg-review-badge"><span class="rplg-social-logo rplg-google-logo"><svg viewBox="0 0 512 512" width="44" height="44"><use xlink:href="#logo-g"/></svg></span></span></div></div><div class="rplg-box"><div class="rplg-row"><div class="rplg-row-left"><img src="https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png" data-src="https://lh3.googleusercontent.com/a-/AOh14GjwBxx-9hNnibSscqeBprquNk2G8d_YX9-YutSq=c0x00000000-cc-rp" class="rplg-review-avatar rplg-blazy" alt="Rolex Oyster perpetual" width="56" height="56" title="Rolex Oyster perpetual" onerror="if(this.src!='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png')this.src='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png';" ></div><div class="rplg-row-right"><div style="display:none;"></div><a href="https://www.google.com/maps?cid=7445454124737749696" class="rplg-review-name rplg-trim" target="_blank" rel="noopener"   title="Rolex Oyster perpetual">Rolex Oyster perpetual</a><div class="rplg-review-time rplg-trim" data-time="1607471295">23:48 08 Dec 20</div></div></div><div class="rplg-box-content"><div class="rplg-stars"><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg></div><span class="rplg-review-text review_my_css_button">Perfect mijn lenovo laptop was binnen 24 uur gemaakt topservice</span><span class="rplg-review-badge"><span class="rplg-social-logo rplg-google-logo"><svg viewBox="0 0 512 512" width="44" height="44"><use xlink:href="#logo-g"/></svg></span></span></div></div><div class="rplg-box"><div class="rplg-row"><div class="rplg-row-left"><img src="https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png" data-src="https://lh3.googleusercontent.com/a-/AOh14GjYrRuBLuZakDHtB_pvagiLus-mpcbsNgS2njCi=c0x00000000-cc-rp" class="rplg-review-avatar rplg-blazy" alt="Rihards" width="56" height="56" title="Rihards" onerror="if(this.src!='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png')this.src='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png';" ></div><div class="rplg-row-right"><div style="display:none;"></div><a href="https://www.google.com/maps?cid=7445454124737749696" class="rplg-review-name rplg-trim" target="_blank" rel="noopener"   title="Rihards">Rihards</a><div class="rplg-review-time rplg-trim" data-time="1607162914">10:08 05 Dec 20</div></div></div><div class="rplg-box-content"><div class="rplg-stars"><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg></div><span class="rplg-review-text review_my_css_button">Nice dude, fixed everything perfectly and pointed out all details.</span><span class="rplg-review-badge"><span class="rplg-social-logo rplg-google-logo"><svg viewBox="0 0 512 512" width="44" height="44"><use xlink:href="#logo-g"/></svg></span></span></div></div><div class="rplg-box"><div class="rplg-row"><div class="rplg-row-left"><img src="https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png" data-src="https://lh5.googleusercontent.com/-QWuQEFTfk7Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmgHJI3qTBl97RcYtRPEfAbdMM-5A/c0x00000000-cc-rp/photo.jpg" class="rplg-review-avatar rplg-blazy" alt="ivan de c" width="56" height="56" title="ivan de c" onerror="if(this.src!='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png')this.src='https://www.laptopreparatie.nl/wp-content/plugins/business-reviews-bundle/assets/img/google_avatar.png';" ></div><div class="rplg-row-right"><div style="display:none;"></div><a href="https://www.google.com/maps?cid=7445454124737749696" class="rplg-review-name rplg-trim" target="_blank" rel="noopener"   title="ivan de c">ivan de c</a><div class="rplg-review-time rplg-trim" data-time="1606924557">15:55 02 Dec 20</div></div></div><div class="rplg-box-content"><div class="rplg-stars"><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg><svg viewBox="0 0 1792 1792" width="17" height="17"><use xlink:href="#star" fill="#e7711b"/></svg></div><span class="rplg-review-text review_my_css_button">This guy can do magic! Brought my laptop back to life after water damage.<span>... </span><span class="rplg-more"> Reasonable prices</span><span class="rplg-more-toggle">Lees meer</span></span><span class="rplg-review-badge"><span class="rplg-social-logo rplg-google-logo"><svg viewBox="0 0 512 512" width="44" height="44"><use xlink:href="#logo-g"/></svg></span></span></div></div></div></div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" onload="(function(el, data) { var t = setInterval(function () { if (window.rplg_init_list_theme){ rplg_init_list_theme(el, data); clearInterval(t); } }, 200); })(this.parentNode);" style="display:none"></div>        
+							
+							</div>            				
+					<!-- specific domain 29 / korving -->						
+						</div>
+					</div>						
+				</div>
+		</div>    
+		</section>
+		
+					<section class="section home_159913 section-id-159913 section_row_5 google_wrapper_reviews">    
+			<div class="container">
+				<div class="row">                    
+					<div class="column_1">    
+						<div class="col-md-12">
+								
+						</div>
+					</div>                   
+				</div>
+			</div>    
+		</section>
+		
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+		</article>
+	</main>
+	
+	<!-- footer -->
+	<footer role="contentinfo">	
+	<!-- top footer container -->
+		<div class="container">			
+			<div class="row">
+														<div class="col-md-6 footer_col">
+				<!-- column1 -->
+					<div>
+						<figure>
+							<img  alt="laptopreparatie.nl" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo-1.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/logo-1.png" alt="laptopreparatie.nl"></noscript>
+						</figure>
+					</div>                                                    
+					<!-- column1 -->
+					<span class="foot_header">Laptop laten repareren? Contact ons!</span>                                                    
+					<!-- column1 -->
+					
+					<div>
+						<table>
+							<tbody>
+								<tr>
+									<td>
+										<figure><img  alt="Service_Agent.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/Service_Agent.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/Service_Agent.png" alt="Service_Agent.png"></noscript></figure>
+									</td>
+									<td>
+										<h5>Vragen?</h5>
+										<a href="tel:0202101478">0202101478</a>
+									</td>
+									
+									<td>
+										<h5>Openingstijden</h5>
+										<table>
+											<tbody>
+																							<tr>
+													<td>Ma</td>
+													<td>09:00 - 12:00 en 13:00 - 18:00 uur</td>
+												</tr>
+																							<tr>
+													<td>Di</td>
+													<td>09:00 - 12:00 en 13:00 - 18:00 uur</td>
+												</tr>
+																							<tr>
+													<td>Wo</td>
+													<td>09:00 - 12:00 en 13:00 - 18:00 uur</td>
+												</tr>
+																							<tr>
+													<td>Do</td>
+													<td>09:00 - 12:00 en 13:00 - 18:00 uur</td>
+												</tr>
+																							<tr>
+													<td>Vr</td>
+													<td>09:00 - 12:00 en 13:00 - 18:00 uur</td>
+												</tr>
+																							<tr>
+													<td>Za</td>
+													<td>10:00 - 12:00 en 13:00 - 17:00 uur</td>
+												</tr>
+																							<tr>
+													<td>Zo</td>
+													<td>Gesloten</td>
+												</tr>
+																						</tbody>
+										</table>
+									</td>
+										
+								</tr>
+																<tr>
+									<td>
+										<figure><img  alt="chat.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/chat.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/chat.png" alt="chat.png"></noscript></figure>
+									</td>
+									<td>
+										<h5>E-mail:</h5>
+										<a href="mailto:info@laptopreparatie.nl" target="_blank">info@laptopreparatie.nl</a>
+									</td>
+								</tr>
+																<tr>
+									<td>
+										<figure><img  alt="location.png" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/location.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/01/location.png" alt="location.png"></noscript></figure>
+									</td>
+									<td>
+										<h5>Adres: </h5>
+										<a href="https://goo.gl/maps/5VnWcFEjoQKLQgMq9" target="_blank">Krom Boomssloot 4A,<br> 1011GV Amsterdam</a>
+									</td>
+								</tr>
+									
+								
+							</tbody>
+						</table>
+
+						<p>
+													<br><a href="" target="_self"><b></b></a>
+							<br>
+												</p>
+					</div>                                                    
+					<!-- column1 -->
+					<div>
+											<figure><img  alt="laptopreparatie.nl" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/04/postnl.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/04/postnl.png" alt="laptopreparatie.nl"></noscript></figure>
+											<figure><img  alt="laptopreparatie.nl" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/04/ups.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/04/ups.png" alt="laptopreparatie.nl"></noscript></figure>
+											<figure><img  alt="laptopreparatie.nl" data-src="https://www.laptopreparatie.nl/wp-content/uploads/2020/04/DHL_Logo.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.laptopreparatie.nl/wp-content/uploads/2020/04/DHL_Logo.png" alt="laptopreparatie.nl"></noscript></figure>
+										</div>                                        
+				</div>
+					
+			
+
+				<div class="col-md-6 footer_col">
+								
+				<!-- column2 -->
+					<div>						
+						<p><!-- <iframe   height="450" style="width:100% !important;" data-src="https://www.kiyoh.nl/widget.php?company=14731" class="kiyoh lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><iframe class="kiyoh" src="https://www.kiyoh.nl/widget.php?company=14731" height="450" style="width:100% !important;"></noscript></iframe> --><br />
+<iframe  scrolling="no"  border="0" frameborder="0" width="100%" height="450" data-src="https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/widgets/widget.html" class="kiyoh lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><iframe class="kiyoh" scrolling="no" src="https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/widgets/widget.html" border="0" frameborder="0" width="100%" height="450"></noscript></iframe></p>
+	
+					</div>   
+											
+				</div>	
+				
+			</div>
+			
+			
+										
+			
+		</div> 
+		
+				
+							
+				<div class="container-fluid">
+				<div class="row">
+					<div class="col-md-12 footer_col">
+						<div class="iframe-map">						
+							<p><iframe style="border: 0;" tabindex="0"  width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen" aria-hidden="false" data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.88846684633!2d4.900334215975284!3d52.3724423549062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609bbe340fb55%3A0xdf75869cad8a3a96!2zS3JvbSBCb29tc3Nsb290IDRBLCAxMDExIEdWIEFtc3RlcmRhbSwg0J3QuNC00LXRgNC70LDQvdC00Ys!5e0!3m2!1sru!2sua!4v1662051482959!5m2!1sru!2sua" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><iframe style="border: 0;" tabindex="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2435.88846684633!2d4.900334215975284!3d52.3724423549062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609bbe340fb55%3A0xdf75869cad8a3a96!2zS3JvbSBCb29tc3Nsb290IDRBLCAxMDExIEdWIEFtc3RlcmRhbSwg0J3QuNC00LXRgNC70LDQvdC00Ys!5e0!3m2!1sru!2sua!4v1662051482959!5m2!1sru!2sua" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen" aria-hidden="false"></noscript></iframe></p>
+	
+						</div>  
+				</div> 	
+				</div>		
+				</div>				
+						
+					
+					
+			
+			
+				
+		
+		
+		<!-- sections footer -->	
+				<!-- top footer container -->    
+		<div class="container container_block_wrapper_footer" role="complementary">            	
+			<div class="row">
+				<aside class="col-md-6 footer_col">
+				<!-- column1 -->
+					<h2 class="foot_header">Bedrijfsinformatie</h2>																	
+					<!-- column1 -->
+					<div>
+						<p>
+						<a href="https://www.laptopreparatie.nl/algemene-voorwaarden/">Algemene voorwaarden</a><br>
+<a href="https://www.laptopreparatie.nl/privacyverklaring/">Privacyverklaring</a><br>
+<a href="https://www.laptopreparatie.nl/garantie/">Garantie</a><br>
+<a href="https://www.laptopreparatie.nl/klachtenregeling/">Klachtenregeling</a><br>
+<a href="https://www.laptopreparatie.nl/algemene-voorwaarden-ictwaarborg-voor-consumenten/">Algemene Voorwaarden ICTWaarborg voor consumenten</a><br>
+<a href="https://www.laptopreparatie.nl/cookies/">Cookies</a><br>
+<a href="https://www.laptopreparatie.nl/retour-en-herroepingsformulier/">Retour en herroepingsformulier</a><br>
+<br>	
+						</p>
+					</div>																	<!-- column1 -->
+					<div>
+						<p>
+													</p>
+					</div>				
+				</aside>
+				<aside class="col-md-6 footer_col">
+				<!-- column2 -->
+					<h2 class="foot_header">Ook voor mensen uit</h2>																	
+					<!-- column2 -->
+					<div>
+						<p>
+																						
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-rotterdam/">Rotterdam,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-den-haag/">Den Haag,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-eindhoven/">Eindhoven,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-tilburg/">Tilburg,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-haarlem/">Haarlem,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-enschede/">Enschede,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-zaandam/">Zaandam,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-hoofddorp/">Hoofddorp,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-zwolle/">Zwolle,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-zoetermeer/">Zoetermeer,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-breda/">Breda,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-leiden/">Leiden,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-nijmegen/">Nijmegen,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-leeuwarden/">Leeuwarden,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-maastricht/">Maastricht,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-dordrecht/">Dordrecht,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-ede/">Ede,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-emmen/">Emmen,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-delft/">Delft,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-venlo/">Venlo,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam/">Laptop Reparatie Amsterdam,</a> 
+						
+														
+							
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie/">MacBook Reparatie Amsterdam,</a> 
+						
+																				</p>
+					</div>								                   
+				</aside>
+			</div> 
+			<div class="container-fluid footer_links_for_all_wrapper">
+				<div class="row">
+							<aside class="col-md-3 footer_col col-sm-12">
+				<ul>
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amstelveen/" title="Laptop Reparatie Amstelveen" target="_blank">Laptop Reparatie Amstelveen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-weesp/" title="Laptop Reparatie Weesp" target="_blank">Laptop Reparatie Weesp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-muiderberg/" title="Laptop Reparatie Muiderberg" target="_blank">Laptop Reparatie Muiderberg</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-diemen/" title="Laptop Reparatie Diemen" target="_blank">Laptop Reparatie Diemen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-de-baarsjes/" title="Laptop Reparatie Amsterdam De Baarsjes" target="_blank">Laptop Reparatie Amsterdam De Baarsjes</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-de-pijp/" title="Laptop Reparatie Amsterdam De Pijp" target="_blank">Laptop Reparatie Amsterdam De Pijp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-slotervaart/" title="Laptop Reparatie Amsterdam Slotervaart" target="_blank">Laptop Reparatie Amsterdam Slotervaart</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-osdorp/" title="Laptop Reparatie Amsterdam Osdorp" target="_blank">Laptop Reparatie Amsterdam Osdorp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-nieuw-west/" title="Laptop Reparatie Amsterdam Nieuw-West" target="_blank">Laptop Reparatie Amsterdam Nieuw-West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-duivendrecht/" title="Laptop Reparatie Amsterdam Duivendrecht" target="_blank">Laptop Reparatie Amsterdam Duivendrecht</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-zuidoost/" title="Laptop Reparatie Amsterdam Zuidoost" target="_blank">Laptop Reparatie Amsterdam Zuidoost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-geuzenveld-slotermeer/" title="Laptop Reparatie Amsterdam Geuzenveld-Slotermeer" target="_blank">Laptop Reparatie Amsterdam Geuzenveld-Slotermeer</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-zuid/" title="Laptop Reparatie Amsterdam Zuid" target="_blank">Laptop Reparatie Amsterdam Zuid</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-noord/" title="Laptop Reparatie Amsterdam Noord" target="_blank">Laptop Reparatie Amsterdam Noord</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-oost/" title="Laptop Reparatie Amsterdam Oost" target="_blank">Laptop Reparatie Amsterdam Oost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-west/" title="Laptop Reparatie Amsterdam West" target="_blank">Laptop Reparatie Amsterdam West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-amsterdam-centrum/" title="Laptop Reparatie Amsterdam Centrum" target="_blank">Laptop Reparatie Amsterdam Centrum</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/laptop-reparatie-utrecht/" title="Laptop Reparatie Utrecht" target="_blank">Laptop Reparatie Utrecht</a>
+							</li>
+							
+									</ul>	
+				</aside>
+											<aside class="col-md-3 footer_col col-sm-12">
+				<ul>
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amstelveen/" title="MacBook Reparatie Amstelveen" target="_blank">MacBook Reparatie Amstelveen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-weesp/" title="MacBook Reparatie Weesp" target="_blank">MacBook Reparatie Weesp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-muiderberg/" title="MacBook Reparatie Muiderberg" target="_blank">MacBook Reparatie Muiderberg</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-diemen/" title="MacBook Reparatie Diemen" target="_blank">MacBook Reparatie Diemen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-debaarsjes/" title="MacBook Reparatie Amsterdam De Baarsjes" target="_blank">MacBook Reparatie Amsterdam De Baarsjes</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-depijp/" title="MacBook Reparatie Amsterdam De Pijp" target="_blank">MacBook Reparatie Amsterdam De Pijp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-slotervaart/" title="MacBook Reparatie Amsterdam Slotervaart" target="_blank">MacBook Reparatie Amsterdam Slotervaart</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-osdorp/" title="MacBook Reparatie Amsterdam Osdorp" target="_blank">MacBook Reparatie Amsterdam Osdorp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-nieuw-west/" title="MacBook Reparatie Amsterdam Nieuw-West" target="_blank">MacBook Reparatie Amsterdam Nieuw-West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-duivendrecht/" title="MacBook Reparatie Amsterdam Duivendrecht" target="_blank">MacBook Reparatie Amsterdam Duivendrecht</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-zuidoost/" title="MacBook Reparatie Amsterdam Zuidoost" target="_blank">MacBook Reparatie Amsterdam Zuidoost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-geuzenveld-slotermeer/" title="MacBook Reparatie Amsterdam Geuzenveld-Slotermeer" target="_blank">MacBook Reparatie Amsterdam Geuzenveld-Slotermeer</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-zuid/" title="MacBook Reparatie Amsterdam Zuid" target="_blank">MacBook Reparatie Amsterdam Zuid</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-noord/" title="MacBook Reparatie Amsterdam Noord" target="_blank">MacBook Reparatie Amsterdam Noord</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-oost/" title="MacBook Reparatie Amsterdam Oost" target="_blank">MacBook Reparatie Amsterdam Oost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-west/" title="MacBook Reparatie Amsterdam West" target="_blank">MacBook Reparatie Amsterdam West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/macbook-reparatie-amsterdam-centrum/" title="MacBook Reparatie Amsterdam Centrum" target="_blank">MacBook Reparatie Amsterdam Centrum</a>
+							</li>
+							
+									</ul>	
+				</aside>
+											<aside class="col-md-3 footer_col col-sm-12">
+				<ul>
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amstelveen/" title="Computer Reparatie Amstelveen" target="_blank">Computer Reparatie Amstelveen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-weesp/" title="Computer Reparatie Weesp" target="_blank">Computer Reparatie Weesp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-muiderberg/" title="Computer Reparatie Muiderberg" target="_blank">Computer Reparatie Muiderberg</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-diemen/" title="Computer Reparatie Diemen" target="_blank">Computer Reparatie Diemen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-debaarsjes/" title="Computer Reparatie Amsterdam De Baarsjes" target="_blank">Computer Reparatie Amsterdam De Baarsjes</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-depijp/" title="Computer Reparatie Amsterdam De Pijp" target="_blank">Computer Reparatie Amsterdam De Pijp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-slotervaart/" title="Computer Reparatie Amsterdam Slotervaart" target="_blank">Computer Reparatie Amsterdam Slotervaart</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-osdorp/" title="Computer Reparatie Amsterdam Osdorp" target="_blank">Computer Reparatie Amsterdam Osdorp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-nieuw-west/" title="Computer Reparatie Amsterdam Nieuw-West" target="_blank">Computer Reparatie Amsterdam Nieuw-West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-duivendrecht/" title="Computer Reparatie Amsterdam Duivendrecht" target="_blank">Computer Reparatie Amsterdam Duivendrecht</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-zuidoost/" title="Computer Reparatie Amsterdam Zuidoost" target="_blank">Computer Reparatie Amsterdam Zuidoost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-geuzenveld-slotermeer/" title="Computer Reparatie Amsterdam Geuzenveld-Slotermeer" target="_blank">Computer Reparatie Amsterdam Geuzenveld-Slotermeer</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-zuid/" title="Computer Reparatie Amsterdam Zuid" target="_blank">Computer Reparatie Amsterdam Zuid</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-noord/" title="Computer Reparatie Amsterdam Noord" target="_blank">Computer Reparatie Amsterdam Noord</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-oost/" title="Computer Reparatie Amsterdam Oost" target="_blank">Computer Reparatie Amsterdam Oost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-west/" title="Computer Reparatie Amsterdam West" target="_blank">Computer Reparatie Amsterdam West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/computer-reparatie-amsterdam-centrum/" title="Computer Reparatie Amsterdam Centrum" target="_blank">Computer Reparatie Amsterdam Centrum</a>
+							</li>
+							
+									</ul>	
+				</aside>
+											<aside class="col-md-3 footer_col col-sm-12">
+				<ul>
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amstelveen/" title="Mac Reparatie Amstelveen" target="_blank">Mac Reparatie Amstelveen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-weesp/" title="Mac Reparatie Weesp" target="_blank">Mac Reparatie Weesp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-muiderberg/" title="Mac Reparatie Muiderberg" target="_blank">Mac Reparatie Muiderberg</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-diemen/" title="Mac Reparatie Diemen" target="_blank">Mac Reparatie Diemen</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-debaarsjes/" title="Mac Reparatie Amsterdam De Baarsjes" target="_blank">Mac Reparatie Amsterdam De Baarsjes</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-depijp/" title="Mac Reparatie Amsterdam De Pijp" target="_blank">Mac Reparatie Amsterdam De Pijp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-slotervaart/" title="Mac Reparatie Amsterdam Slotervaart" target="_blank">Mac Reparatie Amsterdam Slotervaart</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-osdorp/" title="Mac Reparatie Amsterdam Osdorp" target="_blank">Mac Reparatie Amsterdam Osdorp</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-nieuw-west/" title="Mac Reparatie Amsterdam Nieuw-West" target="_blank">Mac Reparatie Amsterdam Nieuw-West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-duivendrecht/" title="Mac Reparatie Amsterdam Duivendrecht" target="_blank">Mac Reparatie Amsterdam Duivendrecht</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-zuidoost/" title="Mac Reparatie Amsterdam Zuidoost" target="_blank">Mac Reparatie Amsterdam Zuidoost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-geuzenveld-slotermeer/" title="Mac Reparatie Amsterdam Geuzenveld-Slotermeer" target="_blank">Mac Reparatie Amsterdam Geuzenveld-Slotermeer</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-zuid/" title="Mac Reparatie Amsterdam Zuid" target="_blank">Mac Reparatie Amsterdam Zuid</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-noord/" title="Mac Reparatie Amsterdam Noord" target="_blank">Mac Reparatie Amsterdam Noord</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-oost/" title="Mac Reparatie Amsterdam Oost" target="_blank">Mac Reparatie Amsterdam Oost</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-west/" title="Mac Reparatie Amsterdam West" target="_blank">Mac Reparatie Amsterdam West</a>
+							</li>
+							
+												
+							<li>
+								<a href="https://www.laptopreparatie.nl/mac-reparatie-amsterdam-centrum/" title="Mac Reparatie Amsterdam Centrum" target="_blank">Mac Reparatie Amsterdam Centrum</a>
+							</li>
+							
+									</ul>	
+				</aside>
+						</div>
+			</div>
+		</div>			
+	</footer>	
+	
+	<div id="cookie-notice" data-lang="nl" style="display:none;">
+<div id="cookie-bar" class="cookie__bar">
+    <div class="cookie__background cookie__information">
+        <div class="cookie__container">
+            <div class="cookie__wrapper">
+                <div class="cookie__content">
+                    <div id="cookiewall-container" class="cookie__body"><h1 id="welkombijLaptop Reparatiewijgebruikencookies">Welkom bij Laptop Reparatie! Wij gebruiken cookies.</h1>
+<p>Met cookies verzamelen we informatie over jouw gebruik van onze website. Handig, want hierdoor: </p>
+<ul>
+<li>Zorgen we dat onze website goed werkt </li>
+<li>Kunnen we onze diensten verbeteren </li>
+
+
+</ul>
+<p>Wat we precies met je gegevens doen? Dat lees je in onze <a href="https://www.laptopreparatie.nl/cookies/">cookieverklaring</a> en <a href="https://www.laptopreparatie.nl/privacyverklaring/">privacyverklaring</a>. </p>
+<p><enter></enter></p>
+<p>Kies zelf bij instellingen welke cookies je accepteert. Dat kan later ook nog op de pagina van de cookieverklaring. Ga je akkoord, dan accepteer je alle cookies.</p></div>
+                </div>
+                <div class="cookie__footer">
+                    <div class="cookie__footer__content">
+                        <button id="grantPermissionButton" class="cookie__button cookie__button--primary" title="Akkoord">Akkoord</button>
+                        <button id="editOrDenyPermissionButton" class="cookie__button cookie__button--secondary">Wijzig cookie-instellingen</button>
+                        <div class="cookiebar-actions__meerinformatie">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><style type="text/css">.cookie__bar#cookie-bar {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	font-family: 'Oswald';
+        font-size: 16px;
+        font-weight: 300;
+}
+
+.cookie__bar#cookie-bar h1 {
+	color: #3244b0;
+	padding-right: 0;
+	font-weight: 300;
+	text-align: center;
+	font-size: 3.125em;
+	line-height: 1.625;
+        font-family: 'Oswald';
+        margin-bottom: 30px;
+        padding-bottom: 0px;
+}
+
+.cookie__bar#cookie-bar p::first-of-type {
+	color: #66728a;
+	font-weight: 300;
+	font-size: 1.25em;
+	line-height: 1.875;
+	margin: 0 0 1.3125em 0;
+}
+
+.cookie__bar#cookie-bar button:focus,
+.cookie__bar#cookie-bar a:focus {
+	outline-color: #3244b0 !important;
+	outline-style: dotted !important;
+	outline-width: 2px !important;
+	outline-offset: .25em !important;
+}
+
+.cookie__bar#cookie-bar .cookie__background {
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 1;
+	display: grid;
+	z-index: 100000;
+	position: fixed;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.cookie__bar#cookie-bar .cookie__background a {
+	color: #27324c;
+	font-weight: 300;
+	cursor: pointer;
+	text-decoration: underline !important;
+}
+
+.cookie__bar#cookie-bar .cookie__background a:hover {
+	text-decoration: none !important;
+}
+
+.cookie__bar#cookie-bar .cookie__background ul {
+	padding: 0;
+	color: #27324c;
+	font-size: 1em;
+	font-weight: 300;
+	text-align: left;
+	line-height: 1.5;
+	margin: 0 0 1.3125em 0;
+}
+
+.cookie__bar#cookie-bar .cookie__background li {
+	position: relative;
+	grid-row: 2;
+	grid-column: 2;
+	list-style: none;
+	padding: 0 0 0 .625em;
+}
+
+.cookie__bar#cookie-bar .cookie__background li::before {
+	width: .1875em;
+	left: 0;
+	content: "";
+	top: .6875em;
+	height: .1875em;
+	position: absolute;
+	border-radius: 100%;
+	background-color: #27324c;
+}
+
+.cookie__bar#cookie-bar .cookie__information {
+	width: 100vw;
+	height: 100vh;
+	grid-template-rows: 1fr auto 1fr;
+	grid-template-columns: 1fr auto 1fr;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings__item p,
+.cookie__bar#cookie-bar .cookie__information p {
+	padding: 0;
+	color: #27324c;
+	font-size: 1em;
+	text-align: left;
+	font-weight: 300;
+	line-height: 1.5;
+	margin: 0 0 1.3125em 0;
+}
+
+.cookie__bar#cookie-bar .cookie__container {
+	position: relative;
+	grid-row: 2;
+	grid-column: 2;
+        box-sizing: border-box;
+}
+
+.cookie__bar#cookie-bar .cookie__wrapper {
+	width: 68.25em;
+	background-color: white;
+	border: 0.0625em solid #d4d9e3;
+	border-radius: .5em .5em 0 .5em;
+	box-shadow: 0 0.125em 0.375em rgba(0, 0, 0, 0.4);
+}
+
+.cookie__bar#cookie-bar .cookie__content {
+	max-height: calc(100vh - 5.1875em);
+	grid-row: 1;
+	overflow: auto;
+}
+
+.cookie__bar#cookie-bar .cookie__content img {
+	width: 7.3125em;
+	margin: 0 auto;
+	display: block;
+}
+
+.cookie__bar#cookie-bar .cookie__body {
+	width: 43.25em;
+	margin: 0 auto;
+	padding: 1.25em 0;
+        line-height: 1;
+}
+
+.cookie__bar#cookie-bar .cookie__footer {
+	width: auto;
+	grid-row-start: 2;
+	grid-row-end: 3;
+	position: relative;
+	padding: 1.3125em;
+	box-shadow: 0 -0.4375em 0.75em 0 rgba(0, 0, 0, 0.15);
+}
+
+.cookie__bar#cookie-bar .cookie__footer::before {
+	width: 100%;
+	left: -100%;
+	content: "";
+	position: absolute;
+	box-shadow: 0 -0.4375em 0.75em 0 rgba(0, 0, 0, 0.15);
+}
+
+.cookie__bar#cookie-bar .cookie__footer__content {
+	width: 44.25em;
+	display: flex;
+	margin: 0 auto;
+}
+
+.cookie__bar#cookie-bar .cookie__button {
+	min-width: 7.875em;
+	font-size: 1em;
+	cursor: pointer;
+	flex-basis: auto;
+	line-height: 1.25;
+	text-align: center;
+	vertical-align: top;
+	display: inline-block;
+	text-decoration: none;
+        font-weight: 400;
+	-webkit-appearance: none; 
+        font-family: 'Oswald';
+	transition: all 100ms ease-out 0ms;
+	-webkit-transition: all 100ms ease-out 0ms;
+        box-sizing: content-box;
+}
+
+.cookie__bar#cookie-bar .cookie__button:hover {
+	color: white;
+	border-color: #66728a;
+	background-color: #66728a;
+}
+
+.cookie__bar#cookie-bar .cookie__button--primary {
+	color: white;
+	margin-right: 1.25em;
+	padding: .625em 1em;
+	background-color: #239cf4;
+	border: 0.0625em solid #239cf4;
+	border-radius: .375em .375em 0 .375em;
+}
+
+.cookie__bar#cookie-bar .cookie__button--secondary {
+	color: #239cf4;
+	padding: .625em 1em;
+	background-color: transparent;
+	border: 0.0625em solid #239cf4;
+	border-radius: .375em .375em 0 .375em;
+}
+
+.cookie__bar#cookie-bar .cookie__settings {
+	grid-template-rows: repeat(3, 1fr);
+	grid-template-columns: repeat(3, 1fr);
+}
+
+.cookie__bar#cookie-bar .cookie__settings h2 {
+	margin-top: 0;
+	font-size: 1.5em;
+	text-align: left;
+	color: #3244b0;
+	line-height: 1.25;
+	margin-bottom: 1em;
+	font-weight: normal;
+	font-family: 'Oswald'
+}
+
+.cookie__bar#cookie-bar .cookie__settings h4 {
+	margin: 0;
+	font-size: 1em;
+	font-weight: normal;
+	color: #27324c;
+}
+
+.cookie__bar#cookie-bar .cookie__settings p {
+	margin-bottom: .625em;
+}
+
+.cookie__bar#cookie-bar .cookie__settings p a {
+	cursor: pointer;
+	font-weight: 500;
+	color: #27324c;
+	text-decoration: underline;
+}
+
+.cookie__bar#cookie-bar .cookie__settings p:first-child {
+	font-size: 1.125em;
+	margin-bottom: 2em;
+	line-height: 1.75;
+	color: #66728a;
+}
+
+.cookie__bar#cookie-bar .cookie__settings b,
+.cookie__bar#cookie-bar .cookie__settings strong {
+	font-weight: normal;
+}
+
+.cookie__bar#cookie-bar .cookie__settings .cookie__body {
+	padding: 2em 0;
+}
+
+.cookie__bar#cookie-bar .cookie__settings .cookie__container {
+	grid-row: 1;
+	grid-column: 1;
+}
+
+.cookie__bar#cookie-bar .cookie__settings .cookie__wrapper,
+.cookie__bar#cookie-bar .cookie__settings .cookie__footer {
+	width: 100%;
+}
+
+.cookie__bar#cookie-bar .cookie__settings .cookie__wrapper {
+	height: 100vh;
+	border-radius: 0;
+}
+
+.cookie__bar#cookie-bar .cookie__settings .intro {
+	color: #66728a;
+	font-size: 1.25em;
+	margin-bottom: 2em;
+	line-height: 1.875;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings h2 {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings__item {
+	font-weight: 300;
+	line-height: 1.5;
+	padding: 1.5em;
+	background-color: #f3f4f7;
+	margin: 0 -0.5em .25em -0.5em;
+	border-radius: .25em .25em 0 .25em;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings__item p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings__item+p {
+	margin-top: 2em;
+}
+
+.cookie__settings .cookie__bar#cookie-bar .gdpr-settings__item p {
+	padding: 0.375em 0;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings__item.new-cookie-disabled {
+	background-color: transparent;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings__item.new-cookie-disabled .new-cookie-checkbox .new-cookie-checkbox-label::before {
+	background-color: #d4d9e3;
+}
+
+.cookie__bar#cookie-bar .gdpr-settings__item.new-cookie-disabled .new-cookie-checkbox .new-cookie-checkbox-label::after {
+	color: #ADB5C5;
+}
+
+.cookie__bar#cookie-bar .cookie__settings.cookie__background {
+	grid-template-rows: 1fr;
+	grid-template-columns: 1fr;
+}
+
+.cookie__bar#cookie-bar .new-cookie-row {
+	display: flex;
+	padding-left: 0;
+	flex-wrap: wrap;
+	padding-right: 0;
+	margin-left: -0.625em;
+	margin-right: -0.625em;
+}
+
+.cookie__bar#cookie-bar .new-cookie-row[class*="col"] {
+	padding-left: .625em;
+	padding-right: .625em;
+}
+
+.cookie__bar#cookie-bar .new-cookie-spacer {
+	margin-top: 2.3125em;
+	padding-top: 2.5em;
+	border-top: 0.0625em solid #f3f4f7;
+}
+
+.cookie__bar#cookie-bar .new-cookie-label {
+	padding-top: 0;
+	color: #27324c;
+}
+
+.cookie__bar#cookie-bar input:not(disabled):focus+label::before {
+	outline-color: #3244b0;
+	outline-style: dotted;
+	outline-width: 2px;
+	outline-offset: .25em;
+}
+
+.cookie__bar#cookie-bar .new-cookie-checkbox input[type="checkbox"] {
+	opacity: 0;
+	position: absolute;
+}
+
+.cookie__bar#cookie-bar .new-cookie-checkbox .new-cookie-checkbox-label {
+	width: 100%;
+	cursor: pointer;
+	text-align: left;
+	position: relative;
+	display: inline-block;
+	line-height: 1.4375;
+	padding: 0 0 0.9375em 1.875em;
+}
+
+.cookie__bar#cookie-bar .new-cookie-checkbox .new-cookie-checkbox-label::before {
+	left: 0;
+	content: "";
+	top: .0625em;
+	display: block;
+	position: absolute;
+	border-radius: .25em;
+	background-color: white;
+	border: 0.0625em solid #d4d9e3;
+}
+
+.cookie__bar#cookie-bar .new-cookie-checkbox .new-cookie-checkbox-label::after {
+	display: none;
+	color: #239cf4;
+	top: .1875em;
+	font-size: 1em;
+	left: 0.0625em;
+	content: "\\E022";
+	text-align: center;
+	position: absolute;
+	border-radius: 0.25em;
+}
+
+.cookie__bar#cookie-bar .new-cookie-checkbox .new-cookie-checkbox-label::after,
+.cookie__bar#cookie-bar .new-cookie-checkbox .new-cookie-checkbox-label::before {
+	width: 1.5em;
+	height: 1.5em;
+}
+
+.cookie__bar#cookie-bar .new-cookie-checkbox .new-cookie-checkbox-label.new-cookie-active::after {
+	display: block;
+}
+
+/* CSS from the original code for the checkboxes */
+@media (min-width: 48em) {
+	.cookie__bar#cookie-bar .cookie__settings .gdpr-settings__item {
+		margin: 0 0 .25em 0;
+	}
+}
+
+@media (max-width: 47.9375em) {
+	.cookie__bar#cookie-bar .cookie__settings .gdpr-settings__item .new-cookie-checkbox .new-cookie-label {
+		padding-bottom: 1em;
+	}
+}
+
+@media (min-width: 30.0625em) {
+	.cookie__bar#cookie-bar .cookie__settings .col-sm-1 {
+		max-width: 8.33333%;
+		flex: 0 0 8.33333%;
+	}
+}
+
+@media (min-width: 30.0625em) {
+	.cookie__bar#cookie-bar .cookie__settings .col-sm-11 {
+		max-width: 91.66667%;
+		flex: 0 0 91.66667%;
+	}
+}
+
+@media (min-width: 30.0625em) {
+	.cookie__bar#cookie-bar .cookie__settings .col-sm-12 {
+		max-width: 100%;
+		flex: 0 0 100%;
+	}
+}
+
+@media (min-width: 48em) {
+	.cookie__bar#cookie-bar .cookie__settings .gdpr-settings p:first-child {
+		font-size: 1.25em;
+		line-height: 1.875;
+	}
+}
+
+.cookie__bar#cookie-bar [class^="icon-"],
+[class*=" icon-"] {
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	font-family: "PostNL-icons";
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
+
+.cookie__bar#cookie-bar .cookie__settings h1+h3 .prev:after,
+.cookie__bar#cookie-bar .cookie__settings .gdpr-settings__item .new-cookie-checkbox .new-cookie-checkbox-label:after {
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	font-family: "PostNL-icons";
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
+
+@media (max-width: 71.875em) {
+	.cookie__bar#cookie-bar .cookie__information.cookie__background {
+		grid-template-rows: 1fr;
+		grid-template-columns: 1fr;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__container {
+		grid-row: 1;
+		grid-column: 1;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__body,
+	.cookie__information .cookie__footer__content {
+		width: 47.25em;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__wrapper,
+	.cookie__bar#cookie-bar .cookie__information .cookie__footer {
+		width: unset;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__wrapper {
+		height: 100vh;
+		border-radius: 0;
+	}
+}
+
+@media (max-width: 53.125em) {
+	.cookie__bar#cookie-bar .cookie__information .cookie__body {
+		width: unset;
+		padding: 2em 1.25em;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__footer__content {
+		width: unset;
+		padding: 0 1.25em;
+	}
+}
+
+@media (max-width: 43.375em) {
+	.cookie__bar#cookie-bar .cookie__information .cookie__footer {
+		padding: 1.5em;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__footer__content {
+		flex-direction: column;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__button {
+		width: 100%;
+	}
+
+	.cookie__bar#cookie-bar .cookie__information .cookie__button--primary {
+		margin: 0 0 1em 0;
+	}
+
+	.cookie__bar#cookie-bar.android .cookie__background,
+	.cookie__bar#cookie-bar.ios .cookie__background {
+		left: 0;
+		right: 0;
+		bottom: 0;
+		position: fixed;
+	}
+
+	.cookie__bar#cookie-bar.android h1,
+	.cookie__bar#cookie-bar.ios h1 {
+		margin-top: 5.3125em;
+	}
+}
+
+@media (max-width: 47.9375em) {
+
+	.cookie__bar#cookie-bar .cookie__settings .cookie__body,
+	.cookie__bar#cookie-bar .cookie__settings .cookie__footer__content {
+		width: 100%;
+		max-width: 33.75em;
+	}
+}
+
+@media (max-width: 37.5em) {
+
+	.cookie__bar#cookie-bar .cookie__settings .cookie__body,
+	.cookie__bar#cookie-bar .cookie__settings .cookie__footer__content,
+	.cookie__bar#cookie-bar .cookie__information .cookie__body,
+	.cookie__bar#cookie-bar .cookie__information .cookie__footer__content {
+		width: unset;
+		padding: 0 1.25em;
+	}
+
+	.cookie__bar#cookie-bar .cookie__settings .cookie__button {
+		width: unset;
+		margin: 0;
+	}
+
+	.cookie__bar#cookie-bar h1 {
+		margin-top: 1.375em;
+	}
+}
+
+@media (min-width: 37.5em) and (max-width: 56.25em) {
+
+	.cookie__bar#cookie-bar .cookie__information h1,
+	.cookie__bar#cookie-bar .cookie__settings h1 {
+		margin-top: 0.627em;
+	}
+}
+
+@media (max-width: 71.875em) {
+	.cookie__bar#cookie-bar .cookie__wrapper {
+		max-height: unset;
+		display: grid;
+		grid-template-rows: 1fr auto;
+	}
+
+	.cookie__bar#cookie-bar .cookie__content {
+		max-height: unset;
+	}
+}
+
+.cookie__bar#cookie-bar.android .cookie__background,
+.cookie__bar#cookie-bar.ios .cookie__background {
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: fixed;
+}
+
+.cookie__bar#cookie-bar.ios h1 {
+	margin-top: 1.875em;
+}
+
+.cookie__bar#cookie-bar.android h1 {
+	margin-top: 4.6875em;
+}
+
+@media (min-width: 37.5em) and (max-width: 44.5em) {
+	.cookie__bar#cookie-bar.android h1 {
+		margin-top: 6.25em;
+	}
+}
+
+@media (min-width: 43.375em) {
+  .cookie__bar#cookie-bar .cookiebar-actions__meerinformatie {
+  margin-top: 0.5em;
+  margin-left: 1.5em;
+ }
+}</style>
+	
+
+</div>
+
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-76737809-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-76737809-1');
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.laptopreparatie.nl\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script  src='https://www.laptopreparatie.nl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6'></script>
+<script >
+window.lazySizesConfig = window.lazySizesConfig || {};
+
+window.lazySizesConfig.lazyClass    = 'lazyload';
+window.lazySizesConfig.loadingClass = 'lazyloading';
+window.lazySizesConfig.loadedClass  = 'lazyloaded';
+
+lazySizesConfig.loadMode = 1;
+</script>
+<script  src='https://www.laptopreparatie.nl/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.4.2'></script>
+<script >
+lazySizes.init();
+</script>
+<script  src='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/js/bootstrap.min.js'></script>
+<script  src='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/js/jquery.fancybox.js'></script>
+<script  src='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/js/sequence.js'></script>
+<script  src='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/js/sequence-slider-v0.min.js'></script>
+<script  src='https://www.laptopreparatie.nl/wp-content/themes/laptopreparatie/js/script.js'></script>
+<script >
+window.hasOwnProperty("GLSR")||(window.GLSR={});GLSR.action="glsr_action";GLSR.ajaxpagination=["#wpadminbar",".site-navigation-fixed"];GLSR.ajaxurl="https://www.laptopreparatie.nl/wp-admin/admin-ajax.php";GLSR.nameprefix="site-reviews";GLSR.validationconfig={error_tag:"div",error_tag_class:"glsr-field-error",field_class:"glsr-field",field_error_class:"glsr-has-error",input_error_class:"glsr-is-invalid",input_valid_class:"glsr-is-valid",message_error_class:"glsr-has-errors",message_initial_class:"glsr-is-visible",message_success_class:"glsr-has-success",message_tag:"div",message_tag_class:"glsr-form-message",json:"[]"};GLSR.validationstrings={accepted:"This field must be accepted.",between:"This field value must be between %s and %s.",betweenlength:"This field must have between %s and %s characters.",email:"This field requires a valid e-mail address.",errors:"Please fix the submission errors.",max:"Maximum value for this field is %s.",maxlength:"This field allows a maximum of %s characters.",min:"Minimum value for this field is %s.",minlength:"This field requires a minimum of %s characters.",number:"This field requires a number.",required:"This field is required.",unsupported:"The review could not be submitted (unsupported browser)."};
+</script>
+<script  src='https://www.laptopreparatie.nl/wp-content/plugins/site-reviews/assets/scripts/site-reviews.js?ver=4.5.5'></script>
+<script  src='https://www.laptopreparatie.nl/wp-includes/js/wp-embed.min.js?ver=5.3.14'></script>
+</body>
+</html>
