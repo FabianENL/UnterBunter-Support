@@ -10,6 +10,13 @@
     <body>
         <div class="header">
             <h1>UnterBunter Support</h1>
+            <div class="opties">
+                <div></div>
+                <h3>Reparaties</h3>
+                <h3>Service</h3>
+                <h3>Contact</h3>
+                <div></div>
+            </div>
         </div>
         <div class="sub-header">
             <h1>UnterBunter reparaties staat altijd voor u klaar!</h1>
