@@ -8,6 +8,9 @@ body{
 
 .header{
     position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     top: 0px;
     width: 100%;
     height: 100px;
@@ -17,18 +20,29 @@ body{
 
 .header h1{
     position: absolute;
-    left: 25%;
+    left: 20%;
     color: rgb(255, 255, 255);
 }
+
 .header .opties{
-    display: flex;
-    justify-content: space-between;
     position: absolute;
     text-align: center;
-    right: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    right: 10%;
     width: 40%;
     height: 100%;
     color: rgb(255, 255, 255);
+}
+
+.header .opties h3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.header .opties h3 a:hover{
+    color: rgb(220, 220, 220);
 }
 
 .sub-header{
@@ -36,7 +50,7 @@ body{
     display: block;
     background-image: url('../img/1.jpg');
     width: 50%;
-    height: 500px;
+    height: 550px;
     overflow-wrap: break-word;
     margin-left: auto;
     margin-right: auto;
@@ -46,14 +60,14 @@ body{
     text-align: center;
 }
 .sub-header h1{
-    padding: 5px;
+    padding: 25px;
     padding-left: 25px;
     padding-right: 25px;
     font-size: 48px;
     font-weight: bold;
 }
 .sub-header h3{
-    padding: 5px;
+    padding: 25px;
     padding-top: 50px;
     padding-bottom: 100px;
     padding-left: 25px;

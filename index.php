@@ -1,9 +1,9 @@
-<?php include('./db.php') ?>
+<?php include('./init.php') ?>
 
 <!DOCTYPE html>
 <html>
     <head>
-        <title>UNTERBUNTER</title>
+        <title>Unterunter Support | Homepagina</title>
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
     </head>
@@ -12,9 +12,10 @@
             <h1>UnterBunter Support</h1>
             <div class="opties">
                 <div></div>
-                <h3>Reparaties</h3>
-                <h3>Service</h3>
-                <h3>Contact</h3>
+                <h3><a href="#">Reparaties</a></h3>
+                <h3><a href="#">Service</a></h3>
+                <h3><a href="#">Contact</a></h3>
+                <h3><a href="#">Account</a></h3>
                 <div></div>
             </div>
         </div>
