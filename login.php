@@ -29,24 +29,37 @@ if (!empty($_POST)) {
 
 <!DOCTYPE html>
 <html>
+    <head>
+        <title>Unterunter Support | Homepagina</title>
+        <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/Jetbrains-mono.css">
+    </head>
+    <body>
+        <div class="header">
+            <h1>UnterBunter Support</h1>
+            <div class="opties">
+                <div></div>
+                <h3><a href="#">Reparaties</a></h3>
+                <h3><a href="#">Service</a></h3>
+                <h3><a href="#">Contact</a></h3>
+                <h3><a href="#">Account</a></h3>
+                <div></div>
+            </div>
+        </div>
+        <div class="login">
+        <?php
+            if (!empty($_GET)) {
+                if ($_GET["register"] == "1") {
 
-<head></head>
-
-<body>
-    <?php
-    if (!empty($_GET)) {
-        if ($_GET["register"] == "1") {
-
-        }
-    } else {
-        echo "<form action=\"login.php\" method=\"post\"> \n";
-        echo "    <input type=\"email\" name=\"mail\" placeholder=\"E-mail\"><br> \n";
-        echo "    <input type=\"password\" name=\"pass\" placeholder=\"Wachtwoord\"><br> \n";
-        echo "    <input type=\"submit\" value=\"Inloggen\" name=\"login\"> \n";
-        echo "</form> \n";
-    }
-    ?>
-
-</body>
-
+                }
+            } else {
+                echo "<form action=\"login.php\" method=\"post\"> \n";
+                echo "    <input type=\"email\" name=\"mail\" placeholder=\"E-mail\"><br> \n";
+                echo "    <input type=\"password\" name=\"pass\" placeholder=\"Wachtwoord\"><br> \n";
+                echo "    <input type=\"submit\" value=\"Inloggen\" name=\"login\"> \n";
+                echo "</form> \n";
+            }
+        ?>
+        </div>
+    </body>
 </html>
