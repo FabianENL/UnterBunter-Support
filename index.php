@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Unterunter Support | Homepagina</title>
+        <title>UnterBunter Support | Homepagina</title>
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
     </head>
