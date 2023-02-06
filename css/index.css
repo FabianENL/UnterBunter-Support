@@ -130,11 +130,37 @@ body{
     background-color: #dadada;
 }
 
-.login form input{
-    border-radius: 10px;
+.login form input[type=email]{
+    position: relative;
+    border: 2px solid #eb4034;
+    border-radius: 50px;
+    width: 200px;
     height: 48px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 16px;
+    top: 75px;
+}
+.login form input[type=password]{
+    position: relative;
+    top: 85px;
+    border: 2px solid #eb4034;
+    border-radius: 50px;
+    width: 200px;
+    height: 48px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
+}
+
+.login form input[type=submit]{
+    position: relative;
+    top: 90px;
+    border: 2px solid #757575;
+    border-radius: 50px;
+    width: 200px;
+    height: 48px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 16px;
 }
