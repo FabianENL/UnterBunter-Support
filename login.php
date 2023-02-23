@@ -32,6 +32,7 @@ if (!empty($_POST)) {
     <head>
         <title>UnterBunter Support | Homepagina</title>
         <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/login.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
     </head>
     <body>
@@ -50,13 +51,14 @@ if (!empty($_POST)) {
         <?php
             if (!empty($_GET)) {
                 if ($_GET["register"] == "1") {
-
+                    echo "Hallo!";
                 }
             } else {
                 echo "<form action=\"login.php\" method=\"post\"> \n";
                 echo "    <input type=\"email\" name=\"mail\" placeholder=\"E-mail\"><br> \n";
                 echo "    <input type=\"password\" name=\"pass\" placeholder=\"Wachtwoord\"><br> \n";
                 echo "    <input type=\"submit\" value=\"Inloggen\" name=\"login\"> \n";
+                echo "    <a href=\"login.php?register=1\">Heeft u nog geen account? maak er dan snel een aan!</a>\n";
                 echo "</form> \n";
             }
         ?>
