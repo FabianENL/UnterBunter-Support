@@ -10,7 +10,7 @@ if (!empty($_POST)) {
 
         $row = mysqli_fetch_all(mysqli_query($conn, $SQL));
         foreach ($row as $rij) {
-            if ($rij[0] == $mail && md5($rij[1]) == $pass) {
+            if (strcmp($rij[0], $mail) == 0  && strcmp($rij[1], md5($pass)) == 0) {
                 echo "<script>alert('Inlog geslaagd!')</script>";
                 $_SESSION['mail'] = $mail;
                 $succes = true;
@@ -21,8 +21,29 @@ if (!empty($_POST)) {
             echo "<script>alert('Inlog gefaald!')</script>";
         }
     }
-    if (isset($_POST["signup"])) {
+    if (!isset($_POST["login"])) {
+        $mail = $_POST["mail"];
+        $pass = $_POST["pass"];
+        $passc = $_POST['passc'];
+        $emailexists = false;
 
+        $SQL = "SELECT * FROM users";
+        $row = mysqli_fetch_all(mysqli_query($conn, $SQL));
+        foreach ($row as $rij) {
+            if(strcmp($rij[0], $mail)){
+                $emailexists = true;
+                break;
+            }
+        }
+        if(!$emailexists){
+            if(!strcmp($pass, $passc)){
+                
+            } else{
+                echo "<script>alert('Wachtwoorden komen niet overeen!'); location.href = \"login.php?register=1\"</script>";
+            }
+        }else{
+            echo "<script>alert('Email bestaat al!');location.href = \"login.php?register=1\"</script>";
+        }
     }
 }
 ?>
@@ -51,7 +72,13 @@ if (!empty($_POST)) {
         <?php
             if (!empty($_GET)) {
                 if ($_GET["register"] == "1") {
-                    echo "Hallo!";
+                    echo "<form action=\"login.php\" method=\"post\"> \n";
+                    echo "    <input type=\"email\" name=\"mail\" placeholder=\"E-mail\"><br> \n";
+                    echo "    <input type=\"password\" name=\"pass\" placeholder=\"Wachtwoord\"><br> \n";
+                    echo "    <input type=\"password\" name=\"passc\" placeholder=\"Wachtwoord Bevestigen\"><br> \n";
+                    echo "    <input type=\"submit\" value=\"Account maken\" name=\"signup\"> \n";
+                    echo "    <a href=\"login.php\">Heeft u al een account? Dan kunt u hier inloggen!</a>\n";
+                    echo "</form> \n";
                 }
             } else {
                 echo "<form action=\"login.php\" method=\"post\"> \n";
