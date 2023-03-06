@@ -30,14 +30,17 @@ if (!empty($_POST)) {
         $SQL = "SELECT * FROM users";
         $row = mysqli_fetch_all(mysqli_query($conn, $SQL));
         foreach ($row as $rij) {
-            if(strcmp($rij[0], $mail)){
+            if(strcmp($rij[0], $mail) == 0){
                 $emailexists = true;
                 break;
             }
         }
         if(!$emailexists){
-            if(!strcmp($pass, $passc)){
-                
+            if(strcmp($pass, $passc) == 0){
+                $passcheck = htmlspecialchars($pass);
+                $mailcheck = md5(htmlspecialchars($mail));
+                $SQL = "INSERT INTO users VALUES (\"$passcheck\", \"$mailcheck\", 0);";
+                mysqli_query($conn, $SQL);
             } else{
                 echo "<script>alert('Wachtwoorden komen niet overeen!'); location.href = \"login.php?register=1\"</script>";
             }
