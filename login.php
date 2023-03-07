@@ -61,7 +61,7 @@ if (!empty($_POST)) {
     </head>
     <body>
         <div class="header">
-            <h1>UnterBunter Support</h1>
+        <h1><a href="index.php">UnterBunter Support</a></h1>
             <div class="opties">
                 <div></div>
                 <h3><a href="#">Reparaties</a></h3>

@@ -6,16 +6,21 @@
         <title>UnterBunter Support | Homepagina</title>
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
+        <script src="js/index.js"></script>
     </head>
-    <body>
+    <body id="body">
         <div class="header">
-            <h1>UnterBunter Support</h1>
+            <h1><a href="index.php">UnterBunter Support</a></h1>
             <div class="opties">
                 <div></div>
                 <h3><a href="#">Reparaties</a></h3>
                 <h3><a href="#">Service</a></h3>
                 <h3><a href="#">Contact</a></h3>
                 <h3><a href="#">Account</a></h3>
+                <label class="form-switch">
+                    <input type="checkbox" name="checkbox"/>
+                    <i></i>
+                </label>
                 <div></div>
             </div>
         </div>
