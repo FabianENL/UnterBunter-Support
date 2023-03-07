@@ -37,9 +37,9 @@ if (!empty($_POST)) {
         }
         if(!$emailexists){
             if(strcmp($pass, $passc) == 0){
-                $passcheck = htmlspecialchars($pass);
-                $mailcheck = md5(htmlspecialchars($mail));
-                $SQL = "INSERT INTO users VALUES (\"$passcheck\", \"$mailcheck\", 0);";
+                $passcheck = md5($pass);
+                $mailcheck = $mail;
+                $SQL = "INSERT INTO users VALUES (\"$mailcheck\", \"$passcheck\", 0);";
                 mysqli_query($conn, $SQL);
             } else{
                 echo "<script>alert('Wachtwoorden komen niet overeen!'); location.href = \"login.php?register=1\"</script>";
