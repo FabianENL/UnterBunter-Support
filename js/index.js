@@ -1,9 +1,11 @@
-var checkbox = document.querySelector("input[name=checkbox]");
+var enabled = true;
 
-checkbox.addEventListener('change', function() {
-  if (this.checked) {
-    console.log("Checkbox is checked..");
-  } else {
-    console.log("Checkbox is not checked..");
+function change(){
+  enabled = !enabled;
+  console.log(enabled);
+  if(enabled){
+    document.getElementById('main').style.backgroundColor = "white";
+  }else{
+    document.getElementById('main').style.backgroundColor = "rgb(70, 70, 70)";
   }
-});
+}

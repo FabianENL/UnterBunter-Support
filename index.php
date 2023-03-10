@@ -7,8 +7,9 @@
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
         <script src="js/index.js"></script>
+        <script src="https://kit.fontawesome.com/a19e53c1a8.js" crossorigin="anonymous"></script>
     </head>
-    <body id="body">
+    <body id="main">
         <div class="header">
             <h1><a href="index.php">UnterBunter Support</a></h1>
             <div class="opties">
@@ -17,10 +18,14 @@
                 <h3><a href="#">Service</a></h3>
                 <h3><a href="#">Contact</a></h3>
                 <h3><a href="#">Account</a></h3>
-                <label class="form-switch">
-                    <input type="checkbox" name="checkbox"/>
-                    <i></i>
-                </label>
+                <div class="switchdiv">
+                    <i class="fa-solid fa-sun">
+                    <label class="switch">
+                        <input type="checkbox" name="checkbox" onchange="change()" />
+                        <span class="slider round"></i></span>
+                    </label>
+                </div>
+                
                 <div></div>
             </div>
         </div>
