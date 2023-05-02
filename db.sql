@@ -18,20 +18,46 @@ DROP DATABASE IF EXISTS `ub-support`;
 CREATE DATABASE IF NOT EXISTS `ub-support` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
 USE `ub-support`;
 
+-- Structuur van  tabel ub-support.reparaties wordt geschreven
+DROP TABLE IF EXISTS `reparaties`;
+CREATE TABLE IF NOT EXISTS `reparaties` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `voornaam` varchar(100) NOT NULL,
+  `achternam` varchar(100) NOT NULL,
+  `probleem` varchar(10000) NOT NULL,
+  `status` int(11) DEFAULT NULL,
+  `mail` varchar(1000) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8mb4;
+
+-- Dumpen data van tabel ub-support.reparaties: ~5 rows (ongeveer)
+DELETE FROM `reparaties`;
+/*!40000 ALTER TABLE `reparaties` DISABLE KEYS */;
+INSERT INTO `reparaties` (`id`, `voornaam`, `achternam`, `probleem`, `status`, `mail`) VALUES
+	(1, 'Fabian', 'Eppens', 'tafelbonk niet overleefd', 5, 'fab@fab.fab'),
+	(2, 'Fabian', 'Eppens', 'adjbasdjbn', 3, 'fab@fab.fab'),
+	(3, 'Gert', 'Gerrit', 'geen', 0, 'gert@gert.gert'),
+	(4, 'Fabian', 'Eppens', 'asd', 1, 'fab@fab.fab'),
+	(7, 'a', 'b', 'c', 5, 'fab@fab.fab'),
+	(8, 'Gert', 'Geert', 'Pik', 3, 'fab@fab.fab');
+/*!40000 ALTER TABLE `reparaties` ENABLE KEYS */;
+
 -- Structuur van  tabel ub-support.users wordt geschreven
 DROP TABLE IF EXISTS `users`;
 CREATE TABLE IF NOT EXISTS `users` (
   `mail` varchar(255) DEFAULT NULL,
-  `pass` varchar(255) DEFAULT NULL,
-  `type` int(11) DEFAULT NULL
+  `pass` mediumtext DEFAULT NULL,
+  `permissionType` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
--- Dumpen data van tabel ub-support.users: ~0 rows (ongeveer)
+-- Dumpen data van tabel ub-support.users: ~4 rows (ongeveer)
 DELETE FROM `users`;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` (`mail`, `pass`, `type`) VALUES
-	('f.eppens@icloud.com', 'Test123', 2),
-	('fabianeppens@leerling.veluwscollege.nl', 'Test321', 0);
+INSERT INTO `users` (`mail`, `pass`, `permissionType`) VALUES
+	('a@b.c', '900150983cd24fb0d6963f7d28e17f72', 0),
+	('arjanebele@gmail.com', '359196519995785474fdcadbf9e9373f', 0),
+	('fab@fab.fab', '6e3df1e2bccb9e5eea0d1822814ed45f', 0),
+	('admin@unterbunter.online', '21232f297a57a5a743894a0e4a801fc3', 1);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
