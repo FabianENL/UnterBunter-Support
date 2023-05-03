@@ -13,4 +13,8 @@
   if ($conn->connect_error) {
     die("Database connectie gefaald... " . $conn->connect_error);
   }
+
+  if(!isset($_SESSION["darkmode"])){
+    $_SESSION["darkmode"] = "checked";
+  }
 ?> 

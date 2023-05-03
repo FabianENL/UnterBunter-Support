@@ -21,7 +21,8 @@
   }
   
   tr:nth-child(even) {
-    background-color: #d5d5d5;
+    background-color: #656565;
+    color: black;
   }
 
 .request{

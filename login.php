@@ -1,5 +1,5 @@
 <?php
-include('./init.php');
+include('./includes/init.php');
 
 if (!empty($_POST)) {
     if (isset($_POST["login"])) {
@@ -59,37 +59,28 @@ if (!empty($_POST)) {
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/login.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
+        <?php include("./includes/scripts.php"); ?>
     </head>
     <body>
-        <div class="header">
-        <h1><a href="index.php">UnterBunter Support</a></h1>
-            <div class="opties">
-                <div></div>
-                <h3><a href="reparaties.php">Reparaties</a></h3>
-                <h3><a href="service.php">Service</a></h3>
-                <h3><a href="#">Contact</a></h3>
-                <h3><a href="login.php">Account</a></h3>
-                <div></div>
-            </div>
-        </div>
-        <div class="login">
+        <?php include('./includes/header.php') ?>
+        <div class="login" id="main">
         <?php
             if (!empty($_GET)) {
                 if ($_GET["register"] == "1") {
-                    echo "<form action=\"login.php\" method=\"post\"> \n";
+                    echo "<form action=\"login.php\" method=\"post\" id=\"loginForm\"> \n";
                     echo "    <input type=\"email\" name=\"mail\" placeholder=\"E-mail\"><br> \n";
                     echo "    <input type=\"password\" name=\"pass\" placeholder=\"Wachtwoord\"><br> \n";
                     echo "    <input type=\"password\" name=\"passc\" placeholder=\"Wachtwoord Bevestigen\"><br> \n";
                     echo "    <input type=\"submit\" value=\"Account maken\" name=\"signup\"> \n";
-                    echo "    <a href=\"login.php\">Heeft u al een account? Dan kunt u hier inloggen!</a>\n";
+                    echo "    <a href=\"login.php\" id=\"loginChange\">Heeft u al een account? Dan kunt u hier inloggen!</a>\n";
                     echo "</form> \n";
                 }
             } else {
-                echo "<form action=\"login.php\" method=\"post\"> \n";
+                echo "<form action=\"login.php\" method=\"post\" id=\"loginForm\"> \n";
                 echo "    <input type=\"email\" name=\"mail\" placeholder=\"E-mail\"><br> \n";
                 echo "    <input type=\"password\" name=\"pass\" placeholder=\"Wachtwoord\"><br> \n";
                 echo "    <input type=\"submit\" value=\"Inloggen\" name=\"login\"> \n";
-                echo "    <a href=\"login.php?register=1\">Heeft u nog geen account? maak er dan snel een aan!</a>\n";
+                echo "    <a href=\"login.php?register=1\" id=\"loginChange\">Heeft u nog geen account? maak er dan snel een aan!</a>\n";
                 echo "</form> \n";
             }
         ?>

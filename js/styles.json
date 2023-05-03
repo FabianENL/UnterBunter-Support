@@ -1,0 +1,38 @@
+{
+    "darkmode":{
+        "main":{
+            "backgroundColor":"rgb(70, 70, 70)"
+        },
+        "sun":{
+            "color":"gray"
+        },
+        "loginForm":{
+            "backgroundColor":"rgb(100, 100, 100)"
+        },
+        "loginChange":{
+            "color":"white"
+        },
+        "repairTable":{
+            "backgroundColor":"rgb(100, 100, 100)",
+            "color":"white"
+        }
+    },
+    "lightmode":{
+        "main":{
+            "backgroundColor":"white"
+        },
+        "sun":{
+            "color":"yellow"
+        },
+        "loginForm":{
+            "backgroundColor":"#dadada"
+        },
+        "loginChange":{
+            "color":"rgb(65, 65, 65)"
+        },
+        "repairTable":{
+            "backgroundColor":"white",
+            "color":"black"
+        }
+    }
+}
