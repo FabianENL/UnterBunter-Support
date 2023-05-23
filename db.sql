@@ -18,6 +18,40 @@ DROP DATABASE IF EXISTS `ub-support`;
 CREATE DATABASE IF NOT EXISTS `ub-support` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
 USE `ub-support`;
 
+-- Structuur van  tabel ub-support.chats wordt geschreven
+DROP TABLE IF EXISTS `chats`;
+CREATE TABLE IF NOT EXISTS `chats` (
+  `id` int(11) NOT NULL,
+  `ownerId` int(11) DEFAULT NULL,
+  `subject` varchar(100) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Dumpen data van tabel ub-support.chats: ~1 rows (ongeveer)
+DELETE FROM `chats`;
+/*!40000 ALTER TABLE `chats` DISABLE KEYS */;
+INSERT INTO `chats` (`id`, `ownerId`, `subject`) VALUES
+	(0, 3, 'WIL niet Werken');
+/*!40000 ALTER TABLE `chats` ENABLE KEYS */;
+
+-- Structuur van  tabel ub-support.messages wordt geschreven
+DROP TABLE IF EXISTS `messages`;
+CREATE TABLE IF NOT EXISTS `messages` (
+  `id` int(11) NOT NULL,
+  `ownerId` int(11) DEFAULT NULL,
+  `chatId` int(11) DEFAULT NULL,
+  `content` longtext DEFAULT NULL,
+  `date` date DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+-- Dumpen data van tabel ub-support.messages: ~0 rows (ongeveer)
+DELETE FROM `messages`;
+/*!40000 ALTER TABLE `messages` DISABLE KEYS */;
+INSERT INTO `messages` (`id`, `ownerId`, `chatId`, `content`, `date`) VALUES
+	(0, 3, 0, ';asdfjlksfjklsdfj', '2023-05-23');
+/*!40000 ALTER TABLE `messages` ENABLE KEYS */;
+
 -- Structuur van  tabel ub-support.reparaties wordt geschreven
 DROP TABLE IF EXISTS `reparaties`;
 CREATE TABLE IF NOT EXISTS `reparaties` (
@@ -47,17 +81,19 @@ DROP TABLE IF EXISTS `users`;
 CREATE TABLE IF NOT EXISTS `users` (
   `mail` varchar(255) DEFAULT NULL,
   `pass` mediumtext DEFAULT NULL,
-  `permissionType` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+  `permissionType` int(11) DEFAULT NULL,
+  `userID` int(11) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`userID`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4;
 
 -- Dumpen data van tabel ub-support.users: ~4 rows (ongeveer)
 DELETE FROM `users`;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` (`mail`, `pass`, `permissionType`) VALUES
-	('a@b.c', '900150983cd24fb0d6963f7d28e17f72', 0),
-	('arjanebele@gmail.com', '359196519995785474fdcadbf9e9373f', 0),
-	('fab@fab.fab', '6e3df1e2bccb9e5eea0d1822814ed45f', 0),
-	('admin@unterbunter.online', '21232f297a57a5a743894a0e4a801fc3', 1);
+INSERT INTO `users` (`mail`, `pass`, `permissionType`, `userID`) VALUES
+	('a@b.c', '900150983cd24fb0d6963f7d28e17f72', 0, 1),
+	('arjanebele@gmail.com', '359196519995785474fdcadbf9e9373f', 0, 2),
+	('fab@fab.fab', '6e3df1e2bccb9e5eea0d1822814ed45f', 0, 3),
+	('admin@unterbunter.online', '21232f297a57a5a743894a0e4a801fc3', 1, 4);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
