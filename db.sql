@@ -25,32 +25,33 @@ CREATE TABLE IF NOT EXISTS `chats` (
   `ownerId` int(11) DEFAULT NULL,
   `subject` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`chatID`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4;
 
--- Dumpen data van tabel ub-support.chats: ~0 rows (ongeveer)
+-- Dumpen data van tabel ub-support.chats: ~3 rows (ongeveer)
 DELETE FROM `chats`;
 /*!40000 ALTER TABLE `chats` DISABLE KEYS */;
 INSERT INTO `chats` (`chatID`, `ownerId`, `subject`) VALUES
 	(1, 3, 'asd'),
-	(2, 5, 'asdasd');
+	(2, 5, 'asdasd'),
+	(3, 69, 'tekst');
 /*!40000 ALTER TABLE `chats` ENABLE KEYS */;
 
 -- Structuur van  tabel ub-support.messages wordt geschreven
 DROP TABLE IF EXISTS `messages`;
 CREATE TABLE IF NOT EXISTS `messages` (
-  `id` int(11) NOT NULL,
+  `messageID` int(11) NOT NULL AUTO_INCREMENT,
   `ownerId` int(11) DEFAULT NULL,
   `chatId` int(11) DEFAULT NULL,
   `content` longtext DEFAULT NULL,
   `date` date DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+  PRIMARY KEY (`messageID`) USING BTREE
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4;
 
--- Dumpen data van tabel ub-support.messages: ~1 rows (ongeveer)
+-- Dumpen data van tabel ub-support.messages: ~0 rows (ongeveer)
 DELETE FROM `messages`;
 /*!40000 ALTER TABLE `messages` DISABLE KEYS */;
-INSERT INTO `messages` (`id`, `ownerId`, `chatId`, `content`, `date`) VALUES
-	(0, 3, 0, ';asdfjlksfjklsdfj', '2023-05-23');
+INSERT INTO `messages` (`messageID`, `ownerId`, `chatId`, `content`, `date`) VALUES
+	(1, 2, 3, 'asd', '2023-05-23');
 /*!40000 ALTER TABLE `messages` ENABLE KEYS */;
 
 -- Structuur van  tabel ub-support.reparaties wordt geschreven
