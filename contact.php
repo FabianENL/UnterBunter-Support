@@ -65,7 +65,7 @@ if(isset($_POST["newMessage"])){
                 }
                 echo "<div class=\"newMessage\">";
                 echo "<form class=\"request\" action=\"contact.php?chat=".$_SESSION["chat"]."\" method=\"post\">";
-                echo "<textarea name=\"content\" rows=\"4\" cols=\"50\" placeholder=\"Schrijf hier uw eerste bericht\"></textarea>";
+                echo "<textarea name=\"content\" rows=\"4\" cols=\"50\" placeholder=\"Schrijf hier uw eerste bericht\"></textarea><br>";
                 echo "<input type=\"submit\" name=\"newMessage\" value=\"Verstuur\"/>";
                 echo "</div>";
             }else{
