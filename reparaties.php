@@ -108,26 +108,14 @@
                             }
                         }
                     }
-                    
                 ?>
             </table>
-                <?php
-                    if(strcmp($_SESSION['type'], 1) != 0){
-                        echo "<form action=\"reparaties.php\" method=\"post\">";
-                        echo "  <input type=\"submit\" value=\"Nieuwe reparatie aanvragen.\" name=\"request\">";
-                        echo "</form>";
-                    }
-                ?>
-            <?php 
-                
-                if(isset($_POST["request"])){
-                        echo "<form class=\"request\" action=\"reparaties.php\" method=\"post\" required>".
-                        "   <input type=\"text\" name=\"first\" placeholder=\"Voornaam\" required> ".
-                        "   <input type=\"text\" name=\"last\" placeholder=\"Achternaam\" required>".
-                        "   <textarea name=\"problem\" rows=\"4\" cols=\"50\" placeholder=\"Beschrijf hier uw probleem zo goed mogelijk\" required></textarea>".
-                        "   <input type=\"submit\" name=\"newRequest\" value=\"Vraag aan\"";
-                }
-            ?>
+                <button onclick="hide()">Vraag een nieuwe reparatie aan</button>
+                <form class="request" action="reparaties.php" method="post" required>
+                <input type="text" name="first" placeholder="Voornaam" required class="hide" style="display: none"> 
+                <input type="text" name="last" placeholder="Achternaam" required class="hide" style="display: none">
+                <textarea name="problem" rows="4" cols="50" placeholder="Beschrijf hier uw probleem zo goed mogelijk" required class="hide" style="display: none"></textarea>
+                <input type="submit" name="newRequest" value="Vraag aan" class="hide" style="display: none"/>
         </div>
     </body>
 </html>

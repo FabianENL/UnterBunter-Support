@@ -13,6 +13,7 @@ if (!empty($_POST)) {
             if (strcmp($rij[0], $mail) == 0  && strcmp($rij[1], md5($pass)) == 0) {
                 echo "<script>alert('Inlog geslaagd!')</script>";
                 $_SESSION['mail'] = $mail;
+                $_SESSION['userID'] = $rij[3];
                 $_SESSION['type'] = $rij[2];
                 $succes = true;
                 break;

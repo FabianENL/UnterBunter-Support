@@ -25,3 +25,15 @@ function load(mode){
       }
     });
 }
+
+function hide(){
+  const elements = document.getElementsByClassName("hide")
+  for(var i = 0; i < elements.length; i++){
+    var x = elements[i]
+    if (x.style.display === "none") {
+      elements[i].style.display = "block";
+    } else {
+      elements[i].style.display = "none";
+    }
+  }
+}

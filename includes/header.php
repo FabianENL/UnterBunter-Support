@@ -5,7 +5,7 @@
         <div></div>
         <h3><a href="reparaties.php">Reparaties</a></h3>
         <h3><a href="service.php">Service</a></h3>
-        <h3><a href="#">Contact</a></h3>
+        <h3><a href="contact.php">Contact</a></h3>
         <h3><a href="login.php">Account</a></h3>
         <div class="switchdiv">
             <i id="sun" class="fa-solid fa-sun">

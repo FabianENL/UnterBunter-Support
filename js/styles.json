@@ -15,6 +15,18 @@
         "repairTable":{
             "backgroundColor":"rgb(100, 100, 100)",
             "color":"white"
+        },
+        "title":{
+            "color":"white"
+        },
+        "id":{
+            "color":"white"
+        },
+        "ververs":{
+            "color":"white"
+        },
+        "chats":{
+            "backgroundColor":"rgb(70, 70, 70)"
         }
     },
     "lightmode":{
@@ -33,6 +45,18 @@
         "repairTable":{
             "backgroundColor":"white",
             "color":"black"
+        },
+        "title":{
+            "color":"black"
+        },
+        "id":{
+            "color":"black"
+        },
+        "ververs":{
+            "color":"black"
+        },
+        "chats":{
+            "backgroundColor":"white"
         }
     }
 }
