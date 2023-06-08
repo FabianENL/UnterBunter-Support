@@ -25,15 +25,11 @@ CREATE TABLE IF NOT EXISTS `chats` (
   `ownerId` int(11) DEFAULT NULL,
   `subject` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`chatID`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4;
 
 -- Dumpen data van tabel ub-support.chats: ~3 rows (ongeveer)
 DELETE FROM `chats`;
 /*!40000 ALTER TABLE `chats` DISABLE KEYS */;
-INSERT INTO `chats` (`chatID`, `ownerId`, `subject`) VALUES
-	(1, 3, 'asd'),
-	(2, 5, 'asdasd'),
-	(3, 69, 'tekst');
 /*!40000 ALTER TABLE `chats` ENABLE KEYS */;
 
 -- Structuur van  tabel ub-support.messages wordt geschreven
@@ -45,13 +41,11 @@ CREATE TABLE IF NOT EXISTS `messages` (
   `content` longtext DEFAULT NULL,
   `date` date DEFAULT NULL,
   PRIMARY KEY (`messageID`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8mb4;
 
--- Dumpen data van tabel ub-support.messages: ~0 rows (ongeveer)
+-- Dumpen data van tabel ub-support.messages: ~12 rows (ongeveer)
 DELETE FROM `messages`;
 /*!40000 ALTER TABLE `messages` DISABLE KEYS */;
-INSERT INTO `messages` (`messageID`, `ownerId`, `chatId`, `content`, `date`) VALUES
-	(1, 2, 3, 'asd', '2023-05-23');
 /*!40000 ALTER TABLE `messages` ENABLE KEYS */;
 
 -- Structuur van  tabel ub-support.reparaties wordt geschreven
@@ -64,7 +58,7 @@ CREATE TABLE IF NOT EXISTS `reparaties` (
   `status` int(11) DEFAULT NULL,
   `mail` varchar(1000) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4;
 
 -- Dumpen data van tabel ub-support.reparaties: ~5 rows (ongeveer)
 DELETE FROM `reparaties`;
@@ -75,7 +69,8 @@ INSERT INTO `reparaties` (`id`, `voornaam`, `achternam`, `probleem`, `status`, `
 	(3, 'Gert', 'Gerrit', 'geen', 0, 'gert@gert.gert'),
 	(4, 'Fabian', 'Eppens', 'asd', 1, 'fab@fab.fab'),
 	(7, 'a', 'b', 'c', 5, 'fab@fab.fab'),
-	(8, 'Gert', 'Geert', 'Pik', 3, 'fab@fab.fab');
+	(8, 'Gert', 'Geert', 'Pik', 3, 'fab@fab.fab'),
+	(9, 'ads', 'asd', 'asd', 0, 'fab@fab.fab');
 /*!40000 ALTER TABLE `reparaties` ENABLE KEYS */;
 
 -- Structuur van  tabel ub-support.users wordt geschreven
