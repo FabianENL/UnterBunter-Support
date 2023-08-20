@@ -31,7 +31,7 @@ if(isset($_POST["newMessage"])){
 <!DOCTYPE html>
 <html>
     <head>
-        <title>UnterBunter Support | Homepagina</title>
+        <title>UnterBunter Support | Contact</title>
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
         <link rel="stylesheet" href="css/contact.css">
