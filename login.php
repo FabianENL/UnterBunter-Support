@@ -56,7 +56,7 @@ if (!empty($_POST)) {
 <!DOCTYPE html>
 <html>
     <head>
-        <title>UnterBunter Support | Homepagina</title>
+        <title>UnterBunter Support | Login</title>
         <link rel="stylesheet" href="css/index.css">
         <link rel="stylesheet" href="css/login.css">
         <link rel="stylesheet" href="css/Jetbrains-mono.css">
