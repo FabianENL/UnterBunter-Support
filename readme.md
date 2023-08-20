@@ -24,3 +24,6 @@ test accounts:
 - username: `fab@fab.fab` password: `fab` type: user
 - username: `admin@unterbunter.online` password: `admin` type: admin
 I tried my best to prevent SQL injections and XSS attacks but if you find a vulerability please let me know  through the issues page
+
+
+fun fact: the name is based of ubuntu
