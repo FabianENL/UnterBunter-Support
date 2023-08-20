@@ -87,8 +87,6 @@ CREATE TABLE IF NOT EXISTS `users` (
 DELETE FROM `users`;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
 INSERT INTO `users` (`mail`, `pass`, `permissionType`, `userID`) VALUES
-	('a@b.c', '900150983cd24fb0d6963f7d28e17f72', 0, 1),
-	('arjanebele@gmail.com', '359196519995785474fdcadbf9e9373f', 0, 2),
 	('fab@fab.fab', '6e3df1e2bccb9e5eea0d1822814ed45f', 0, 3),
 	('admin@unterbunter.online', '21232f297a57a5a743894a0e4a801fc3', 1, 4);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
