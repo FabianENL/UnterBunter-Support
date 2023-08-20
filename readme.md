@@ -19,6 +19,7 @@ The page where users can login or register
 
 # Database
 The database i'm using is MySQL and the contents of the database can be found in [db.sql](https://github.com/FabianENL/UnterBunter-Support/blob/main/db.sql)
+
 test accounts:
 - username: `fab@fab.fab` password: `fab` type: user
 - username: `admin@unterbunter.online` password: `admin` type: admin
