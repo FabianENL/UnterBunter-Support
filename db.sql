@@ -66,7 +66,6 @@ DELETE FROM `reparaties`;
 INSERT INTO `reparaties` (`id`, `voornaam`, `achternam`, `probleem`, `status`, `mail`) VALUES
 	(1, 'Fabian', 'Eppens', 'tafelbonk niet overleefd', 5, 'fab@fab.fab'),
 	(2, 'Fabian', 'Eppens', 'adjbasdjbn', 3, 'fab@fab.fab'),
-	(3, 'Gert', 'Gerrit', 'geen', 0, 'gert@gert.gert'),
 	(4, 'Fabian', 'Eppens', 'asd', 1, 'fab@fab.fab'),
 	(7, 'a', 'b', 'c', 5, 'fab@fab.fab'),
 	(8, 'Gert', 'Geert', 'Pik', 3, 'fab@fab.fab'),
